@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://github.com/p-society/vulkan/raw/main/assets/vulcan.png" width="200">
+    <img src="https://github.com/user-attachments/assets/313d8a1c-53c9-41ac-a33d-5722a17992f6" width="350">
 </h1>
 
 <div align="center">
@@ -29,10 +29,7 @@
 
 <div align="center">
     <br/>
-    <img src='https://github.com/p-society/vulkan/raw/main/assets/go.svg' width='70' height='70'>
-    <img src='https://github.com/p-society/vulkan/raw/main/assets/docker.svg' width='70' height='70' style='border-radius: 10px;'>
-    <img src='https://github.com/p-society/vulkan/raw/main/assets/git.svg' width='70' height='70' style='border-radius: 10px;'>
-    <img src='https://github.com/p-society/vulkan/raw/main/assets/mongodb.svg' width='70' height='70' style='border-radius: 10px;'>
+	<img src='https://skillicons.dev/icons?i=go,docker,git,mongodb' ></img>
 </div>
 
 ## Installation Guide
