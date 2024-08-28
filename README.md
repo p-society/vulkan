@@ -53,7 +53,7 @@ Before you begin, ensure you have the following installed:
    First, clone the Vulkan repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/vulkan.git
+   git clone https://github.com/p-society/vulkan.git
    cd vulkan
    ```
 
