@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://github.com/p-society/vulkan/raw/main/assets/vulcan.png" width="200">
+    Vulkan
 </h1>
 
 <h1 align="center">
-    Vulkan
+    <img src="https://github.com/p-society/vulkan/raw/main/assets/vulcan.png" width="200">
 </h1>
 
 <div align="center">
