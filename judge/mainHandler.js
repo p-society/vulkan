@@ -9,44 +9,22 @@ const client = new net.Socket();
 
 
 // Connect to the TCP server
-const f1 = ()=>{
+const simulator = (data)=>{
     client.connect(TCP_PORT, TCP_HOST, () => {
         console.log(`Connected to TCP server at ${TCP_HOST}:${TCP_PORT}`);
-
         // Send data to the server
-        const message = `*1\r\n$4\r\nPING\r\n`;
-        client.write(message);
-        console.log(`Sent: ${message}`);
+        client.write(data);
+        console.log(`Sent: ${data}`);
     })
-    client.on('data', (data) => {
-        console.log(`Received: ${data.toString()}`);
+    client.on('data', (e) => {
+        console.log(`Received: ${e}`);
+        otherFunction(e);
         client.destroy();
     });
+};
+
+const otherFunction = (passed_data) => {
+    // Do something with the data
+    console.log(passed_data)
 }
-f1();
-    // client.connect(TCP_PORT, TCP_HOST, () => {
-    //     console.log(`Connected to TCP server at ${TCP_HOST}:${TCP_PORT}`);
-    //
-    //     // Send data to the server
-    //     const message = 'Hello, Server!';
-    //     client.write(message);
-    //     console.log(`Sent: ${message}`);
-    // });
-    //
-    // // Handle data received from the server
-    // client.on('data', (data) => {
-    //     console.log(`Received: ${data.toString()}`);
-    //
-    //     // Close the connection after receiving data
-    //     client.destroy();
-    // });
-    //
-    // // Handle connection close
-    // client.on('close', () => {
-    //     console.log('Connection closed');
-    // });
-    //
-    // // Handle errors
-    // client.on('error', (err) => {
-    //     console.error(`Connection error: ${err.message}`);
-    // });
+simulator(`*2\r\n$4\r\nKEYS\r\n$1\r\n*\r\n`)
