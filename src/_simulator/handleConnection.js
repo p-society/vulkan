@@ -1,30 +1,38 @@
-import net from 'net'
+import net from 'net';
+import { defaultValues } from '../constants/default-values.js';
 
-// Get TCP server details from environment variables
-const TCP_HOST = process.env.TCP_HOST || '127.0.0.1';
-const TCP_PORT = process.env.TCP_PORT || 6379;
+class ConnectionHandler {
+    constructor(
+        tcpHost,
+        tcpPort,
+        responseHandler = defaultValues.responseHandler,
+        challengeName = defaultValues.challengeName
+    ) {
+        this.tcpHost = tcpHost;
+        this.tcpPort = tcpPort;
+        this.responseHandler = responseHandler;
+        this.challengeName = challengeName;
+        this.client = new net.Socket();
+    }
 
-// Create a TCP client socket
-const client = new net.Socket();
+    dialHost() {
+        this.client.connect(this.tcpPort, this.tcpHost, () => {
+            console.log(`Connected to ${this.challengeName} server at ${this.tcpHost}:${this.tcpPort}`);
+        }).on('data', (data) => {
+            this.responseHandler(data);
+        }).on('close', () => {
+            console.log('Connection closed');
+        }).on('error', (error) => {
+            console.error(`Error: ${error.message}`);
+        });
+    }
 
-
-// Connect to the TCP server
-const simulator = (data)=>{
-    client.connect(TCP_PORT, TCP_HOST, () => {
-        console.log(`Connected to TCP server at ${TCP_HOST}:${TCP_PORT}`);
-        // Send data to the server
-        client.write(data);
-        console.log(`Sent: ${data}`);
-    })
-    client.on('data', (e) => {
-        console.log(`Received: ${e}`);
-        otherFunction(e);
-        client.destroy();
-    });
-};
-
-const otherFunction = (passed_data) => {
-    // Do something with the data
-    console.log(passed_data)
+    disconnect() {
+        this.client.end().catch((error) => {
+            console.error(`Error: ${error}`);
+        });
+        console.log('Disconnected from server');
+    }
 }
-simulator(`*2\r\n$4\r\nKEYS\r\n$1\r\n*\r\n`)
+
+export default ConnectionHandler;
