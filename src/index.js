@@ -3,36 +3,56 @@ const docker = new Docker({ socketPath: '/var/run/docker.sock' });
 
 async function run() {
     try {
-        console.log("Listing all containers...");
+        const imageName = 'nodejs-express-app-1';
+        const containerName = 'nodejs-container-1';
 
-        const containers = await docker.listContainers({ all: true });
-        console.log("Containers:", containers);
+        const buildContextPath = __dirname;
 
-        console.log("Creating a new Redis container...");
+        console.log("Building Docker image...");
+        console.log({ buildContextPath })
+    
+        const buildStream = await docker.buildImage({
+            context: buildContextPath, 
+            src: ['.']
+        }, { t: imageName });
+
+        buildStream.pipe(process.stdout, { end: true });
+
+        await new Promise((resolve, reject) => {
+            buildStream.on('end', resolve);
+            buildStream.on('error', reject);
+        });
+
+        console.log("Docker image built successfully!");
+
         const container = await docker.createContainer({
-            Image: 'redis:latest',
-            name: 'soubhik-redis',
+            Image: imageName,
+            name: containerName,
+            ExposedPorts: {
+                '6969/tcp': {}
+            },
+            HostConfig: {
+                PortBindings: {
+                    '6969/tcp': [{
+                        HostPort: '6969'
+                    }]
+                }
+            }
         });
 
         console.log("Starting the container...");
         await container.start();
 
-        console.log("Container started. Logs:");
-        const logs = await container.logs({
-            follow: true,
-            stdout: true,
-            stderr: true,
+        console.log("Container started successfully!");
+
+        container.wait((err, data) => {
+            if (err) {
+                console.error('Error while waiting for container to stop:', err);
+            } else {
+                console.log('Container stopped. Exit code:', data.StatusCode);
+            }
         });
 
-        logs.pipe(process.stdout);
-
-        console.log("Waiting for the container to finish...");
-        await container.wait();
-
-        console.log("Container execution completed. Removing it...");
-        await container.remove();
-
-        console.log("Container removed successfully.");
     } catch (error) {
         console.error("Error:", error);
     }
