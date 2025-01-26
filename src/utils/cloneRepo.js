@@ -1,6 +1,6 @@
 const path = require('path');
 const simpleGit = require('simple-git');
-const axios = require('axios'); // For making API calls
+const axios = require('axios'); 
 const fs = require('fs');
 
 const REPO_DIR = path.join(__dirname, '../../repo');
