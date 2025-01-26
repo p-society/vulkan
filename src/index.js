@@ -1,5 +1,5 @@
 const Docker = require('dockerode');
-const docker = new Docker({ socketPath: '/var/run/docker.sock' });
+const docker = new Docker({ host:'localhost',port: 2375 });
 
 async function run() {
     try {
