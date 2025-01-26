@@ -15,10 +15,11 @@ app.use(express.urlencoded({ extended: true }));
 // or use named properties
 const { simpleGit, CleanOptions } = require('simple-git');
 simpleGit().clean(CleanOptions.FORCE);
-
+let remoteRepos='https://github.com/p-society/vulkan.git'
 // Basic route
 app.get('/', (req, res) => {
     res.send('Hello World!');
+    simpleGit.clone()
 });
 
 // Start server
