@@ -14,6 +14,7 @@ app.use(express.urlencoded({ extended: true }));
 const REPO_DIR = path.join(__dirname, 'repo');
 if (!fs.existsSync(REPO_DIR)) {
     fs.mkdirSync(REPO_DIR);
+
 }
 
 
@@ -28,9 +29,11 @@ app.get('/', (req, res) => {
 
 app.post('/clone', async (req, res) => {
     const { repoUrl } = req.body;
+    const {env}=req.body;
     console.log(repoUrl);
+    console.log(env);
     try {
-        const clonedRepoPath = await CloneRepo(repoUrl);
+        const clonedRepoPath = await CloneRepo(repoUrl,env);
         res.status(200).json({
             message: 'Repository cloned successfully.',
             repoPath: clonedRepoPath

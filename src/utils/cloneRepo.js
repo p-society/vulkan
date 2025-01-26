@@ -6,6 +6,32 @@ const fs = require('fs');
 const REPO_DIR = path.join(__dirname, '../../repo');
 
 // Function to fetch repository details using GitHub API
+function createEnvFile(targetPath, envVars) {
+  if (typeof envVars !== 'object' || envVars === null) {
+    throw new Error('Invalid argument: envVars must be an object');
+  }
+  targetPath=path.join(targetPath,'.env');
+  console.log({ targetPath, envVars });
+
+  // Ensure the target directory exists
+  const directoryPath = path.dirname(targetPath);
+  if (!fs.existsSync(directoryPath)) {
+    fs.mkdirSync(directoryPath, { recursive: true });
+  }
+
+  // Convert the object to a .env-compatible string
+  const envFileContent = Object.entries(envVars)
+    .map(([key, value]) => `${key}=${value}`)
+    .join('\n');
+  console.log({ envFileContent });
+
+  // Write the string to the specified file
+  fs.writeFileSync(targetPath, envFileContent, 'utf8');
+  console.log(`.env file has been created at ${targetPath}`);
+}
+
+
+
 const getRepoSize = async (repoUrl) => {
   try {
     // Extract owner and repo name from the URL
@@ -32,7 +58,7 @@ const getRepoSize = async (repoUrl) => {
 };
 
 // Function to clone repository
-const cloneRepo = async (repoUrl) => {
+const cloneRepo = async (repoUrl,envVars) => {
   try {
     // Validate the URL
     if (!repoUrl || !/^https:\/\/github\.com\/.+\/.+\.git$/.test(repoUrl)) {
@@ -48,7 +74,7 @@ const cloneRepo = async (repoUrl) => {
     // Extract repo name
     const repoName = repoUrl.split('/').pop().replace('.git', '');
     const targetPath = path.join(REPO_DIR, repoName);
-
+    console.log({targetPath})
     // Check if the directory already exists
     if (fs.existsSync(targetPath)) {
       throw new Error(`Repository '${repoName}' already exists.`);
@@ -60,6 +86,7 @@ const cloneRepo = async (repoUrl) => {
     // Clone the repository
     await git.clone(repoUrl, targetPath);
     console.log(`Repository cloned successfully: ${targetPath}`);
+    createEnvFile(targetPath,envVars)
     return targetPath;
   } catch (error) {
     console.error('Error cloning repository:', error.message);
