@@ -9,6 +9,7 @@ const REPO_DIR = path.join(__dirname, '../../repo');
 const getRepoSize = async (repoUrl) => {
   try {
     // Extract owner and repo name from the URL
+    console.log(repoUrl);
     const match = repoUrl.match(/https:\/\/github\.com\/([^/]+)\/([^/]+)\.git/);
     if (!match) throw new Error('Invalid GitHub repository URL.');
 
