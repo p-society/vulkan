@@ -6,10 +6,11 @@
   "author": "iamanishx <manishbiswal754@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
+    "dockerode": "2.5.5",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
