@@ -9,7 +9,7 @@ const client = new net.Socket();
 
 
 // Connect to the TCP server
-const f1 = ()=>{
+const f = ()=>{
     client.connect(TCP_PORT, TCP_HOST, () => {
         console.log(`Connected to TCP server at ${TCP_HOST}:${TCP_PORT}`);
 

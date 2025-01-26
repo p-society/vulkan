@@ -96,3 +96,6 @@ Made with [contributors-img](https://contributors-img.web.app).
 Join our [Discord Server](https://discord.gg/UhmKJGMnan) and [subscribe](https://github.com/p-society/vulkan) to this repository  to get updates, information about Vulkan
     
 </center>
+
+
+components: test simulator(open tcp port and send data according to protocol from db), sim manager (get test meta with test_id, ), 
