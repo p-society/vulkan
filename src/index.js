@@ -18,6 +18,7 @@ app.use(express.urlencoded({ extended: true }));
 // Basic route
 app.get('/', (req, res) => {
     res.send('Hello World!');
+    simpleGit.clone()
 });
 
 app.use('/clone',CloneRepo);
