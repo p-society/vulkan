@@ -1,4 +1,5 @@
 const express = require('express');
+const CloneRepo = require('./utils/cloneRepo');
 
 const app = express();
 const port = 3000;
@@ -12,13 +13,14 @@ app.use(express.urlencoded({ extended: true }));
 
 
 // or use named properties
-const { simpleGit, CleanOptions } = require('simple-git');
-simpleGit().clean(CleanOptions.FORCE);
+
 
 // Basic route
 app.get('/', (req, res) => {
     res.send('Hello World!');
 });
+
+app.use('/clone',CloneRepo);
 
 // Start server
 app.listen(port, () => {
