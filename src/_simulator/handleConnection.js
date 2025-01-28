@@ -18,6 +18,17 @@ class ConnectionHandler {
         this.lock = false;
         this.queue = [];
     }
+    
+    #processQueue() {
+
+        if (this.lock || this.queue.length == 0) {
+            return;
+        }
+
+        this.lock = true;
+        const buffer = this.queue.shift();
+        this.client.write(buffer);
+    }
 
     dialHost() {
         this.client
@@ -45,15 +56,6 @@ class ConnectionHandler {
         this.#processQueue();
     }
 
-    #processQueue() {
-        if (this.lock || this.queue.length == 0) {
-            return;
-        }
-
-        this.lock = true;
-        const buffer = this.queue.shift();
-        this.client.write(buffer);
-    }
 
     getStatus() {
         if (this.client.connecting) {
@@ -68,11 +70,7 @@ class ConnectionHandler {
     }
 
     disconnect() {
-        if (this.isConnected) {
             this.client.end();
-        } else {
-            console.error('Cannot disconnect. The client is not connected.');
-        }
     }
 }
 
