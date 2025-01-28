@@ -1,13 +1,13 @@
 import net from 'net';
-import { defaultValues } from '../constants/default-values.js';
+import { SimulatorDefaultValues } from '../constants/default-values.js';
 
 class ConnectionHandler {
 
     constructor(
         tcpHost,
         tcpPort,
-        responseHandler = defaultValues.responseHandler,
-        challengeName = defaultValues.challengeName
+        responseHandler = SimulatorDefaultValues.responseHandler,
+        challengeName = SimulatorDefaultValues.challengeName
     ) {
         this.tcpHost = tcpHost;
         this.tcpPort = tcpPort;
@@ -37,7 +37,7 @@ class ConnectionHandler {
                 console.log(`Connected to ${this.challengeName} server at ${this.tcpHost}:${this.tcpPort}`);
             })
             .on('data', (data) => {
-                this.responseHandler(JSON.stringify(data));
+                this.responseHandler(data.toString());
                 this.lock = false;
                 this.#processQueue();
             })

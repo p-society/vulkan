@@ -1,4 +1,4 @@
-export const defaultValues = {
+export const SimulatorDefaultValues = {
     challengeName: 'Challenge',
 
     responseHandler: (data) => {
