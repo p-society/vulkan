@@ -1,4 +1,7 @@
 class Manager {
-    constructor() {
+    constructor(testConfig) {
+        this.testConfig = testConfig;
+        this.connections = [];
+        
     }
 }

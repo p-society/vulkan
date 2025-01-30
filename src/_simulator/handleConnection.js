@@ -1,7 +1,7 @@
 import net from 'net';
 import { SimulatorDefaultValues } from '../constants/default-values.js';
 
-class ConnectionHandler {
+class Connection {
 
     constructor(
         tcpHost,
@@ -17,8 +17,9 @@ class ConnectionHandler {
         this.isConnected = false;
         this.lock = false;
         this.queue = [];
+        this.pendingResponse = null;
     }
-    
+
     #processQueue() {
 
         if (this.lock || this.queue.length == 0) {
@@ -26,18 +27,25 @@ class ConnectionHandler {
         }
 
         this.lock = true;
-        const buffer = this.queue.shift();
+
+        const { buffer, resolve, reject } = this.queue.shift();
+
+        this.pendingResponse = { resolve, reject };
         this.client.write(buffer);
     }
 
     dialHost() {
         this.client
             .connect(this.tcpPort, this.tcpHost, () => {
-                this.isConnected = true; 
+                this.isConnected = true;
                 console.log(`Connected to ${this.challengeName} server at ${this.tcpHost}:${this.tcpPort}`);
             })
             .on('data', (data) => {
                 this.responseHandler(data.toString());
+
+                this.pendingResponse.resolve(data);
+
+                this.pendingResponse = null;
                 this.lock = false;
                 this.#processQueue();
             })
@@ -46,14 +54,19 @@ class ConnectionHandler {
                 console.log('Connection closed');
             })
             .on('error', (error) => {
-                this.isConnected = false; 
+                this.isConnected = false;
+
+                this.pendingResponse.reject(error);
+
                 console.error(`Error: ${error.message}`);
             });
     }
 
     sendData(buffer) {
-        this.queue.push(buffer);
-        this.#processQueue();
+        return new Promise((resolve, reject) => {
+            this.queue.push({ buffer, resolve, reject });
+            this.#processQueue();
+        })
     }
 
 
@@ -65,13 +78,13 @@ class ConnectionHandler {
         } else if (this.client.destroyed) {
             return 'disconnected';
         } else {
-            return 'idle'; 
+            return 'idle';
         }
     }
 
     disconnect() {
-            this.client.end();
+        this.client.end();
     }
 }
 
-export default ConnectionHandler;
+export default Connection;
