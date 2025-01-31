@@ -19,7 +19,7 @@ class Manager {
      * @param {LoadProfile} loadProfile 
      * @param {number} [logInterval=5000] 
      */
-    constructor(loadProfile, logInterval = 50) {
+    constructor(loadProfile, logInterval = 500) {
         this.loadProfile = loadProfile;
         this.connections = [];
         this.logInterval = logInterval;
@@ -48,7 +48,9 @@ class Manager {
      * @returns {number} - The throughput.
      */
     #calculateThroughput() {
-        return this.connections.reduce((sum, conn) => sum + conn.requests, 0);
+        return this.connections.reduce((sum, conn) => {
+            return sum + (conn.getStatus() === 'connected' ? 1 : 0);
+        }, 0);
     }
 
     /**
@@ -58,11 +60,13 @@ class Manager {
         const { connections, rate, duration } = stage;
 
         for (let i = 0; i < connections; i++) {
-            const conn = new Connection(); // Replace with your actual connection logic
+            const conn = new Connection('localhost', 6379)
             this.connections.push(conn);
+
+            await conn.dialHost();
+            await new Promise((resolve) => setTimeout(resolve, duration * 1000/rate));
         }
 
-        await new Promise((resolve) => setTimeout(resolve, duration * 1000));
     }
 
     async start() {

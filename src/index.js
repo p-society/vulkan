@@ -9,7 +9,8 @@ async function main() {
         stages: [
             {
                 connections: 10,
-                duration: 5000,
+                rate: 5,
+                duration: 5,
             },
         ],
     });
