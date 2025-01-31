@@ -35,31 +35,35 @@ class Connection {
     }
 
     dialHost() {
-        this.client
-            .connect(this.tcpPort, this.tcpHost, () => {
-                this.isConnected = true;
-                console.log(`Connected to ${this.challengeName} server at ${this.tcpHost}:${this.tcpPort}`);
-            })
-            .on('data', (data) => {
-                this.responseHandler(data.toString());
+        this.client.on('data', (data) => {
+            this.responseHandler(data.toString());
 
-                this.pendingResponse.resolve(data);
+            this.pendingResponse.resolve(data);
 
-                this.pendingResponse = null;
-                this.lock = false;
-                this.#processQueue();
-            })
-            .on('close', () => {
-                this.isConnected = false;
-                console.log('Connection closed');
-            })
-            .on('error', (error) => {
-                this.isConnected = false;
+            this.pendingResponse = null;
+            this.lock = false;
+            this.#processQueue();
+        }).on('close', () => {
+            this.isConnected = false;
+            console.log('Connection closed');
+        }).on('error', (error) => {
+            this.isConnected = false;
 
-                this.pendingResponse.reject(error);
+            this.pendingResponse.reject(error);
 
-                console.error(`Error: ${error.message}`);
-            });
+            console.error(`Error: ${error.message}`);
+        });
+
+        return new Promise((resolve, reject) => {
+            this.client
+                .connect(this.tcpPort, this.tcpHost, () => {
+                    this.isConnected = true;
+
+                    console.log(`Connected to ${this.challengeName} server at ${this.tcpHost}:${this.tcpPort}`);
+                    resolve();
+                })
+        })
+
     }
 
     sendData(buffer) {
@@ -68,7 +72,6 @@ class Connection {
             this.#processQueue();
         })
     }
-
 
     getStatus() {
         if (this.client.connecting) {
