@@ -44,7 +44,7 @@ async function renderChart() {
                         text: "Value",
                     },
                     ticks: {
-                        stepSize: 2, 
+                        stepSize: 10, 
                     },
                 },
             },

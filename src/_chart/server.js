@@ -1,6 +1,6 @@
 import express from "express";
 import fs from "fs";
-import path from "path";
+import open from "open";
 
 const app = express();
 const PORT = 3000;
@@ -20,5 +20,8 @@ app.get("/", (req, res) => {
 app.use(express.static("/home/majorbruteforce/codes/vulkan/src/_chart/public"));
 
 app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
+
+    open(`http://localhost:${PORT}`)
+        .then(() => {})
+        .catch(err => console.error("Failed to launch browser:", err));
 });
