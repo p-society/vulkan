@@ -1,19 +1,26 @@
 import logger from "../_errors/ActuatorErrors.js";
+import GitManager from "./Git.js";
 
 export default class Fetch {
     #fetchURI;
+    #gitManager;
+    #eventBus;
+
     static #GITHUB_DOMAIN_URI = `github.com`;
     static #SEC_SCHEME = `https://`;
 
-    constructor(uri) {
+    constructor(uri, eventBus) {
         this.#fetchURI = uri;
-        const isGithubURI = Fetch.#isGitHubURI(this.#fetchURI);
+        this.#eventBus = eventBus;
+
+        const isGithubURI = this.#isGitHubURI(this.#fetchURI);
         if (!isGithubURI) throw new Error(`Not a valid Github URI!`);
-        console.log(`Valid Github URI...`)
+        logger.error(`Valid Github URI, Attaching Git-Manager instance`)
+        this.#gitManager = new GitManager(uri);
     }
 
-    static #isGitHubURI(uri) {
-        console.log(uri);
+    #isGitHubURI(uri) {
+        logger.info(uri);
 
         if (!(typeof uri === 'string' || uri instanceof String)) {
             return false;
@@ -25,9 +32,13 @@ export default class Fetch {
         }
 
         const isGitHubURI = uri.startsWith(Fetch.#SEC_SCHEME + Fetch.#GITHUB_DOMAIN_URI);
-        console.log(isGitHubURI);
+        logger.info(isGitHubURI);
 
         return true;
+    }
+
+    async fetchTargetRepository(branch, localDir) {
+        await this.#gitManager.pullRepository(branch, localDir);
     }
 
 

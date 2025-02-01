@@ -1,9 +1,11 @@
 import Fetch from "../_fetcher/Fetch.js";
+import path from "path";
 
-function runTests() {
+async function runTests() {
     testInvalidURLScheme();
     testValidGithubURL();
     testNonStringURL();
+    await testfetchTargetRepository();
 }
 
 function testInvalidURLScheme() {
@@ -38,6 +40,17 @@ function testNonStringURL() {
         } else {
             console.log("❌ testNonStringURL failed:", e.message);
         }
+    }
+}
+
+async function testfetchTargetRepository() {
+    try {
+        const CLONE_PATH = path.join(process.cwd(), 'MOCK_FETCH');
+        const fetch = new Fetch("https://github.com/p-society/vulkan/");
+        await fetch.fetchTargetRepository(`dev`, CLONE_PATH);
+        console.log("✅ testfetchTargetRepository passed");
+    } catch (e) {
+        console.log("❌ testfetchTargetRepository failed:", e.message);
     }
 }
 
