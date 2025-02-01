@@ -1,0 +1,26 @@
+2025-02-01T09:52:05.888Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T09:52:10.243Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T09:52:29.001Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T09:52:53.589Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:09:56.826Z | [31MERROR[39M | [31mInvalid dev provided.[39m
+2025-02-01T10:10:47.036Z | [31MERROR[39M | [31mInvalid branch dev provided.[39m
+2025-02-01T10:14:28.982Z | [31MERROR[39M | [31mError during git operation: error: Your local changes to the following files would be overwritten by checkout:[39m
+[31m	package-lock.json[39m
+[31m	package.json[39m
+[31m	src/index.js[39m
+[31m	yarn.lock[39m
+[31mPlease commit your changes or stash them before you switch branches.[39m
+[31mAborting[39m
+[31m[39m
+2025-02-01T10:15:02.082Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:06.921Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:06.924Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:29.174Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:29.177Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:55.142Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new/x' already exists and is not an empty directory.[39m
+[31m[39m
