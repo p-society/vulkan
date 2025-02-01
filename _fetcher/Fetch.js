@@ -40,6 +40,4 @@ export default class Fetch {
     async fetchTargetRepository(branch, localDir) {
         await this.#gitManager.pullRepository(branch, localDir);
     }
-
-
 }

@@ -26,3 +26,4 @@
 {"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mInvalid Scheme, expected https://\u001b[39m","service":"vulkan-actuator-service","timestamp":"2025-02-01T11:13:22.755Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mValid Github URI, Attaching Git-Manager instance\u001b[39m","service":"vulkan-actuator-service","timestamp":"2025-02-01T11:13:22.756Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mValid Github URI, Attaching Git-Manager instance\u001b[39m","service":"vulkan-actuator-service","timestamp":"2025-02-01T11:13:22.759Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mValid Github URI, Attaching Git-Manager instance\u001b[39m","service":"vulkan-actuator-service","timestamp":"2025-02-01T12:33:23.090Z"}
