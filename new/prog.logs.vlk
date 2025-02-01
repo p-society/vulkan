@@ -24,3 +24,46 @@
 [31m[39m
 2025-02-01T10:15:55.142Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new/x' already exists and is not an empty directory.[39m
 [31m[39m
+2025-02-01T10:30:39.735Z | [31MERROR[39M | [31mError during git operation: this[#git].clone(...).on is not a function[39m
+2025-02-01T10:31:02.518Z | [31MERROR[39M | [31mError during git operation: this[#git].pull(...).on is not a function[39m
+2025-02-01T10:34:24.437Z | [32MINFO[39M | [32mgit.clone remote: stage 1% complete[39m
+2025-02-01T10:34:24.439Z | [32MINFO[39M | [32mgit.clone remote: stage 18% complete[39m
+2025-02-01T10:34:24.602Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T10:34:24.602Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T10:34:24.687Z | [32MINFO[39M | [32mgit.clone receiving stage 23% complete[39m
+2025-02-01T10:34:24.688Z | [32MINFO[39M | [32mgit.clone receiving stage 24% complete[39m
+2025-02-01T10:34:24.689Z | [32MINFO[39M | [32mgit.clone receiving stage 41% complete[39m
+2025-02-01T10:34:24.708Z | [32MINFO[39M | [32mgit.clone receiving stage 42% complete[39m
+2025-02-01T10:34:24.708Z | [32MINFO[39M | [32mgit.clone receiving stage 44% complete[39m
+2025-02-01T10:34:24.709Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T10:34:25.389Z | [32MINFO[39M | [32mgit.clone receiving stage 67% complete[39m
+2025-02-01T10:34:25.389Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T10:34:25.642Z | [32MINFO[39M | [32mgit.clone receiving stage 74% complete[39m
+2025-02-01T10:34:26.818Z | [32MINFO[39M | [32mgit.clone receiving stage 74% complete[39m
+2025-02-01T10:34:27.041Z | [32MINFO[39M | [32mgit.clone receiving stage 75% complete[39m
+2025-02-01T10:34:27.042Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T10:34:27.042Z | [32MINFO[39M | [32mgit.clone receiving stage 80% complete[39m
+2025-02-01T10:34:27.042Z | [32MINFO[39M | [32mgit.clone receiving stage 82% complete[39m
+2025-02-01T10:34:27.042Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T10:34:27.105Z | [32MINFO[39M | [32mgit.clone receiving stage 88% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 89% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 90% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 95% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 97% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 2% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 11% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 21% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 33% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 51% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 55% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 60% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 67% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 74% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 77% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 86% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 89% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 98% complete[39m
+2025-02-01T10:34:27.109Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m

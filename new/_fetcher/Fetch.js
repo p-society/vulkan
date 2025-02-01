@@ -30,5 +30,5 @@ export default class Fetch {
         return true;
     }
 
-    
+
 }

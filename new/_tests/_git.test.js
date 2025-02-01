@@ -12,7 +12,7 @@ async function testClone() {
         const gitManager = new GitManager("https://github.com/p-society/vulkan/");
         await gitManager.pullRepository("dev", CLONE_PATH);
         console.log("✅ Clone and pull successful");
-        fs.rm(CLONE_PATH, { recursive: true, force: true }, data => console.log(`✅ Cleanup done!`));
+        fs.rm(CLONE_PATH, { recursive: true, force: true }, () => console.log(`✅ Cleanup done!`));
     } catch (e) {
         console.error("❌ Test failed:", e.message);
     }
