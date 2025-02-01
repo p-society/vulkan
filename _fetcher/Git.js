@@ -1,6 +1,5 @@
 import simpleGit from "simple-git";
 import fs from "fs";
-import path from "path";
 import logger from "../_errors/ActuatorErrors.js";
 
 export default class GitManager {

@@ -4,12 +4,12 @@ import Docker from 'dockerode';
 
 export default class ContainerManager {
     #dockerRemoteAPI
-
+    #runningContainers
     constructor(DOCKER_SOCKET_PATH = '/var/run/docker.sock') {
         this.#checkDockerInstalled();
         this.#dockerRemoteAPI = new Docker({ socketPath: DOCKER_SOCKET_PATH });
         // this.listContainers();
-        
+
     }
 
     #checkDockerInstalled() {
@@ -58,6 +58,30 @@ export default class ContainerManager {
         this.#dockerRemoteAPI.listContainers(function (err, containers) {
             containers.forEach(function (containerInfo) {
                 this.getContainerObject(containerId).stop(cb);
+            });
+        });
+    }
+
+    async buildImage(imagePath) {
+        const buildStream = await this.#dockerRemoteAPI.buildImage({
+            context: `/home/soubhik/codes/vulkan/tests/test - 0/`,
+            src: ['.']
+        }, { t: `build-${(Math.random() * 100).toFixed(0)}` });
+
+
+        return new Promise((resolve, reject) => {
+            buildStream.on('data', (chunk) => {
+                process.stdout.write(chunk.toString());  // Write the data to stdout
+            });
+
+            buildStream.on('end', () => {
+                console.log("Docker image build completed successfully!");
+                resolve();  // Resolve promise when build completes
+            });
+
+            buildStream.on('error', (err) => {
+                console.error("Error during Docker build:", err);
+                reject(err);  // Reject promise if there's an error
             });
         });
     }

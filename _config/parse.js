@@ -36,7 +36,7 @@ import fs from 'node:fs';
 // }
 
 
-export const parseTargetYAML = (configFilePath = process.cwd() + '/_config/sample.yaml') => {
+export const parseTargetYAML = (configFilePath) => {
     const config = yamlParser.load(fs.readFileSync(configFilePath, 'utf8'));
     console.log(config);
     return config;

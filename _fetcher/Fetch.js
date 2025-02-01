@@ -15,7 +15,7 @@ export default class Fetch {
 
         const isGithubURI = this.#isGitHubURI(this.#fetchURI);
         if (!isGithubURI) throw new Error(`Not a valid Github URI!`);
-        logger.error(`Valid Github URI, Attaching Git-Manager instance`)
+        logger.info(`Valid Github URI, Attaching Git-Manager instance`)
         this.#gitManager = new GitManager(uri);
     }
 
@@ -39,5 +39,6 @@ export default class Fetch {
 
     async fetchTargetRepository(branch, localDir) {
         await this.#gitManager.pullRepository(branch, localDir);
+        return true;
     }
 }
