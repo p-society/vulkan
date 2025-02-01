@@ -1,5 +1,0 @@
-version: '1'
-config:
-  language: 'JS'
-  runtime: 'node.js'
-    version: '22.11.0'
