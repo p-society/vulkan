@@ -1,0 +1,10 @@
+version: "1.0"
+
+config:
+  language: "javascript"
+  runtime:
+    name: "node"
+    version: "22.11.00"
+    packageManager: 
+      name: "yarn"
+      version: "1.22.22"

@@ -1,0 +1,1313 @@
+2025-02-01T09:52:05.888Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T09:52:10.243Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T09:52:29.001Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T09:52:53.589Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:09:56.826Z | [31MERROR[39M | [31mInvalid dev provided.[39m
+2025-02-01T10:10:47.036Z | [31MERROR[39M | [31mInvalid branch dev provided.[39m
+2025-02-01T10:14:28.982Z | [31MERROR[39M | [31mError during git operation: error: Your local changes to the following files would be overwritten by checkout:[39m
+[31m	package-lock.json[39m
+[31m	package.json[39m
+[31m	src/index.js[39m
+[31m	yarn.lock[39m
+[31mPlease commit your changes or stash them before you switch branches.[39m
+[31mAborting[39m
+[31m[39m
+2025-02-01T10:15:02.082Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:06.921Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:06.924Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:29.174Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:29.177Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:15:55.142Z | [31MERROR[39M | [31mError during git operation: fatal: destination path '/home/soubhik/codes/vulkan/new/x' already exists and is not an empty directory.[39m
+[31m[39m
+2025-02-01T10:30:39.735Z | [31MERROR[39M | [31mError during git operation: this[#git].clone(...).on is not a function[39m
+2025-02-01T10:31:02.518Z | [31MERROR[39M | [31mError during git operation: this[#git].pull(...).on is not a function[39m
+2025-02-01T10:34:24.437Z | [32MINFO[39M | [32mgit.clone remote: stage 1% complete[39m
+2025-02-01T10:34:24.439Z | [32MINFO[39M | [32mgit.clone remote: stage 18% complete[39m
+2025-02-01T10:34:24.602Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T10:34:24.602Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T10:34:24.687Z | [32MINFO[39M | [32mgit.clone receiving stage 23% complete[39m
+2025-02-01T10:34:24.688Z | [32MINFO[39M | [32mgit.clone receiving stage 24% complete[39m
+2025-02-01T10:34:24.689Z | [32MINFO[39M | [32mgit.clone receiving stage 41% complete[39m
+2025-02-01T10:34:24.708Z | [32MINFO[39M | [32mgit.clone receiving stage 42% complete[39m
+2025-02-01T10:34:24.708Z | [32MINFO[39M | [32mgit.clone receiving stage 44% complete[39m
+2025-02-01T10:34:24.709Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T10:34:25.389Z | [32MINFO[39M | [32mgit.clone receiving stage 67% complete[39m
+2025-02-01T10:34:25.389Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T10:34:25.642Z | [32MINFO[39M | [32mgit.clone receiving stage 74% complete[39m
+2025-02-01T10:34:26.818Z | [32MINFO[39M | [32mgit.clone receiving stage 74% complete[39m
+2025-02-01T10:34:27.041Z | [32MINFO[39M | [32mgit.clone receiving stage 75% complete[39m
+2025-02-01T10:34:27.042Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T10:34:27.042Z | [32MINFO[39M | [32mgit.clone receiving stage 80% complete[39m
+2025-02-01T10:34:27.042Z | [32MINFO[39M | [32mgit.clone receiving stage 82% complete[39m
+2025-02-01T10:34:27.042Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T10:34:27.105Z | [32MINFO[39M | [32mgit.clone receiving stage 88% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 89% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 90% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 95% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone receiving stage 97% complete[39m
+2025-02-01T10:34:27.106Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 2% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 11% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 21% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 33% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 51% complete[39m
+2025-02-01T10:34:27.107Z | [32MINFO[39M | [32mgit.clone resolving stage 55% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 60% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 67% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 74% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 77% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 86% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 89% complete[39m
+2025-02-01T10:34:27.108Z | [32MINFO[39M | [32mgit.clone resolving stage 98% complete[39m
+2025-02-01T10:34:27.109Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T10:37:03.245Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:38:25.016Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:39:22.907Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:39:30.339Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:40:49.401Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:40:49.406Z | [31MERROR[39M | [31mInvalid branch undefined provided.[39m
+2025-02-01T10:41:19.074Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:41:36.749Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:41:38.044Z | [32MINFO[39M | [32mgit.clone remote: stage 1% complete[39m
+2025-02-01T10:41:38.045Z | [32MINFO[39M | [32mgit.clone remote: stage 47% complete[39m
+2025-02-01T10:41:38.213Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T10:41:38.214Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T10:41:38.376Z | [32MINFO[39M | [32mgit.clone receiving stage 23% complete[39m
+2025-02-01T10:41:38.377Z | [32MINFO[39M | [32mgit.clone receiving stage 26% complete[39m
+2025-02-01T10:41:38.762Z | [32MINFO[39M | [32mgit.clone receiving stage 28% complete[39m
+2025-02-01T10:41:38.763Z | [32MINFO[39M | [32mgit.clone receiving stage 29% complete[39m
+2025-02-01T10:41:39.099Z | [32MINFO[39M | [32mgit.clone receiving stage 40% complete[39m
+2025-02-01T10:41:39.100Z | [32MINFO[39M | [32mgit.clone receiving stage 42% complete[39m
+2025-02-01T10:41:39.203Z | [32MINFO[39M | [32mgit.clone receiving stage 56% complete[39m
+2025-02-01T10:41:39.203Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T10:41:39.203Z | [32MINFO[39M | [32mgit.clone receiving stage 61% complete[39m
+2025-02-01T10:41:39.204Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T10:41:39.204Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:39.287Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:40.788Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:41.327Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:42.405Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:44.219Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:45.648Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:46.435Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:47.909Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:48.508Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:50.314Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:51.357Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:41:55.290Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:42:00.674Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:42:07.090Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:42:07.606Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:42:08.563Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:42:08.564Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T10:42:08.564Z | [32MINFO[39M | [32mgit.clone receiving stage 68% complete[39m
+2025-02-01T10:42:15.516Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:20.007Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:21.003Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:23.514Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:25.178Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:31.221Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:41.636Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:42.724Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:43.315Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:42:43.487Z | [31MERROR[39M | [31mError during git operation: Cloning into '/home/soubhik/codes/vulkan/new/MOCK_FETCH'...[39m
+[31mremote: Enumerating objects: 339, done.        [39m
+[31mremote: Counting objects:   1% (1/71)        [39m[31mremote: Counting objects:   2% (2/71)        [39m[31mremote: Counting objects:   4% (3/71)        [39m[31mremote: Counting objects:   5% (4/71)        [39m[31mremote: Counting objects:   7% (5/71)        [39m[31mremote: Counting objects:   8% (6/71)        [39m[31mremote: Counting objects:   9% (7/71)        [39m[31mremote: Counting objects:  11% (8/71)        [39m[31mremote: Counting objects:  12% (9/71)        [39m[31mremote: Counting objects:  14% (10/71)        [39m[31mremote: Counting objects:  15% (11/71)        [39m[31mremote: Counting objects:  16% (12/71)        [39m[31mremote: Counting objects:  18% (13/71)        [39m[31mremote: Counting objects:  19% (14/71)        [39m[31mremote: Counting objects:  21% (15/71)        [39m[31mremote: Counting objects:  22% (16/71)        [39m[31mremote: Counting objects:  23% (17/71)        [39m[31mremote: Counting objects:  25% (18/71)        [39m[31mremote: Counting objects:  26% (19/71)        [39m[31mremote: Counting objects:  28% (20/71)        [39m[31mremote: Counting objects:  29% (21/71)        [39m[31mremote: Counting objects:  30% (22/71)        [39m[31mremote: Counting objects:  32% (23/71)        [39m[31mremote: Counting objects:  33% (24/71)        [39m[31mremote: Counting objects:  35% (25/71)        [39m[31mremote: Counting objects:  36% (26/71)        [39m[31mremote: Counting objects:  38% (27/71)        [39m[31mremote: Counting objects:  39% (28/71)        [39m[31mremote: Counting objects:  40% (29/71)        [39m[31mremote: Counting objects:  42% (30/71)        [39m[31mremote: Counting objects:  43% (31/71)        [39m[31mremote: Counting objects:  45% (32/71)        [39m[31mremote: Counting objects:  46% (33/71)        [39m[31mremote: Counting objects:  47% (34/71)        [39m[31mremote: Counting objects:  49% (35/71)        [39m[31mremote: Counting objects:  50% (36/71)        [39m[31mremote: Counting objects:  52% (37/71)        [39m[31mremote: Counting objects:  53% (38/71)        [39m[31mremote: Counting objects:  54% (39/71)        [39m[31mremote: Counting objects:  56% (40/71)        [39m[31mremote: Counting objects:  57% (41/71)        [39m[31mremote: Counting objects:  59% (42/71)        [39m[31mremote: Counting objects:  60% (43/71)        [39m[31mremote: Counting objects:  61% (44/71)        [39m[31mremote: Counting objects:  63% (45/71)        [39m[31mremote: Counting objects:  64% (46/71)        [39m[31mremote: Counting objects:  66% (47/71)        [39m[31mremote: Counting objects:  67% (48/71)        [39m[31mremote: Counting objects:  69% (49/71)        [39m[31mremote: Counting objects:  70% (50/71)        [39m[31mremote: Counting objects:  71% (51/71)        [39m[31mremote: Counting objects:  73% (52/71)        [39m[31mremote: Counting objects:  74% (53/71)        [39m[31mremote: Counting objects:  76% (54/71)        [39m[31mremote: Counting objects:  77% (55/71)        [39m[31mremote: Counting objects:  78% (56/71)        [39m[31mremote: Counting objects:  80% (57/71)        [39m[31mremote: Counting objects:  81% (58/71)        [39m[31mremote: Counting objects:  83% (59/71)        [39m[31mremote: Counting objects:  84% (60/71)        [39m[31mremote: Counting objects:  85% (61/71)        [39m[31mremote: Counting objects:  87% (62/71)        [39m[31mremote: Counting objects:  88% (63/71)        [39m[31mremote: Counting objects:  90% (64/71)        [39m[31mremote: Counting objects:  91% (65/71)        [39m[31mremote: Counting objects:  92% (66/71)        [39m[31mremote: Counting objects:  94% (67/71)        [39m[31mremote: Counting objects:  95% (68/71)        [39m[31mremote: Counting objects:  97% (69/71)        [39m[31mremote: Counting objects:  98% (70/71)        [39m[31mremote: Counting objects: 100% (71/71)        [39m[31mremote: Counting objects: 100% (71/71), done.        [39m
+[31mremote: Compressing objects:   2% (1/42)        [39m[31mremote: Compressing objects:   4% (2/42)        [39m[31mremote: Compressing objects:   7% (3/42)        [39m[31mremote: Compressing objects:   9% (4/42)        [39m[31mremote: Compressing objects:  11% (5/42)        [39m[31mremote: Compressing objects:  14% (6/42)        [39m[31mremote: Compressing objects:  16% (7/42)        [39m[31mremote: Compressing objects:  19% (8/42)        [39m[31mremote: Compressing objects:  21% (9/42)        [39m[31mremote: Compressing objects:  23% (10/42)        [39m[31mremote: Compressing objects:  26% (11/42)        [39m[31mremote: Compressing objects:  28% (12/42)        [39m[31mremote: Compressing objects:  30% (13/42)        [39m[31mremote: Compressing objects:  33% (14/42)        [39m[31mremote: Compressing objects:  35% (15/42)        [39m[31mremote: Compressing objects:  38% (16/42)        [39m[31mremote: Compressing objects:  40% (17/42)        [39m[31mremote: Compressing objects:  42% (18/42)        [39m[31mremote: Compressing objects:  45% (19/42)        [39m[31mremote: Compressing objects:  47% (20/42)        [39m[31mremote: Compressing objects:  50% (21/42)        [39m[31mremote: Compressing objects:  52% (22/42)        [39m[31mremote: Compressing objects:  54% (23/42)        [39m[31mremote: Compressing objects:  57% (24/42)        [39m[31mremote: Compressing objects:  59% (25/42)        [39m[31mremote: Compressing objects:  61% (26/42)        [39m[31mremote: Compressing objects:  64% (27/42)        [39m[31mremote: Compressing objects:  66% (28/42)        [39m[31mremote: Compressing objects:  69% (29/42)        [39m[31mremote: Compressing objects:  71% (30/42)        [39m[31mremote: Compressing objects:  73% (31/42)        [39m[31mremote: Compressing objects:  76% (32/42)        [39m[31mremote: Compressing objects:  78% (33/42)        [39m[31mremote: Compressing objects:  80% (34/42)        [39m[31mremote: Compressing objects:  83% (35/42)        [39m[31mremote: Compressing objects:  85% (36/42)        [39m[31mremote: Compressing objects:  88% (37/42)        [39m[31mremote: Compressing objects:  90% (38/42)        [39m[31mremote: Compressing objects:  92% (39/42)        [39m[31mremote: Compressing objects:  95% (40/42)        [39m[31mremote: Compressing objects:  97% (41/42)        [39m[31mremote: Compressing objects: 100% (42/42)        [39m[31mremote: Compressing objects: 100% (42/42), done.        [39m
+[31mReceiving objects:   0% (1/339)[39m[31mReceiving objects:   1% (4/339)[39m[31mReceiving objects:   2% (7/339)[39m[31mReceiving objects:   3% (11/339)[39m[31mReceiving objects:   4% (14/339)[39m[31mReceiving objects:   5% (17/339)[39m[31mReceiving objects:   6% (21/339)[39m[31mReceiving objects:   7% (24/339)[39m[31mReceiving objects:   8% (28/339)[39m[31mReceiving objects:   9% (31/339)[39m[31mReceiving objects:  10% (34/339)[39m[31mReceiving objects:  11% (38/339)[39m[31mReceiving objects:  12% (41/339)[39m[31mReceiving objects:  13% (45/339)[39m[31mReceiving objects:  14% (48/339)[39m[31mReceiving objects:  15% (51/339)[39m[31mReceiving objects:  16% (55/339)[39m[31mReceiving objects:  17% (58/339)[39m[31mReceiving objects:  18% (62/339)[39m[31mReceiving objects:  19% (65/339)[39m[31mReceiving objects:  20% (68/339)[39m[31mReceiving objects:  21% (72/339)[39m[31mReceiving objects:  22% (75/339)[39m[31mReceiving objects:  23% (78/339)[39m[31mReceiving objects:  24% (82/339)[39m[31mReceiving objects:  25% (85/339)[39m[31mReceiving objects:  26% (89/339)[39m[31mReceiving objects:  27% (92/339)[39m[31mReceiving objects:  28% (95/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  29% (99/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  30% (102/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  31% (106/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  32% (109/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  33% (112/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  34% (116/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  35% (119/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  36% (123/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  37% (126/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  38% (129/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  39% (133/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  40% (136/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  41% (139/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  42% (143/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  43% (146/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  44% (150/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  45% (153/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  46% (156/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  47% (160/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  48% (163/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  49% (167/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  50% (170/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  51% (173/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  52% (177/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  53% (180/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  54% (184/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  55% (187/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  56% (190/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  57% (194/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  58% (197/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  59% (201/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  60% (204/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  61% (207/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  62% (211/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  63% (214/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  64% (217/339), 36.01 KiB | 51.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 84.01 KiB | 70.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 156.01 KiB | 57.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 172.01 KiB | 52.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 196.01 KiB | 44.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 252.01 KiB | 40.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 268.01 KiB | 33.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 292.01 KiB | 29.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 324.01 KiB | 23.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 332.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 372.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 396.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 428.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 444.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 468.01 KiB | 8.00 KiB/s [39m[31mReceiving objects:  64% (218/339), 500.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  64% (218/339), 508.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  65% (221/339), 508.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  66% (224/339), 508.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  67% (228/339), 508.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  68% (231/339), 508.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  69% (234/339), 508.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  70% (238/339), 508.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  71% (241/339), 508.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 524.01 KiB | 6.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 540.01 KiB | 5.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 548.01 KiB | 5.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 564.01 KiB | 4.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 572.01 KiB | 4.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 588.01 KiB | 4.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 604.01 KiB | 3.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 644.01 KiB | 3.00 KiB/s[39m[31mReceiving objects:  71% (244/339), 700.01 KiB | 6.00 KiB/s[39m[31merror: RPC failed; curl 92 HTTP/2 stream 5 was not closed cleanly: CANCEL (err 8)[39m
+[31merror: 11913 bytes of body are still expected[39m
+[31mfetch-pack: unexpected disconnect while reading sideband packet[39m
+[31mfatal: early EOF[39m
+[31mfatal: fetch-pack: invalid index-pack output[39m
+[31m[39m
+2025-02-01T10:43:38.666Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T10:43:39.660Z | [32MINFO[39M | [32mgit.clone remote: stage 1% complete[39m
+2025-02-01T10:43:39.661Z | [32MINFO[39M | [32mgit.clone remote: stage 28% complete[39m
+2025-02-01T10:43:39.758Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T10:43:39.759Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T10:43:39.793Z | [32MINFO[39M | [32mgit.clone receiving stage 19% complete[39m
+2025-02-01T10:43:39.793Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T10:43:39.800Z | [32MINFO[39M | [32mgit.clone receiving stage 23% complete[39m
+2025-02-01T10:43:39.800Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T10:43:40.000Z | [32MINFO[39M | [32mgit.clone receiving stage 28% complete[39m
+2025-02-01T10:43:40.001Z | [32MINFO[39M | [32mgit.clone receiving stage 30% complete[39m
+2025-02-01T10:43:40.152Z | [32MINFO[39M | [32mgit.clone receiving stage 40% complete[39m
+2025-02-01T10:43:40.152Z | [32MINFO[39M | [32mgit.clone receiving stage 41% complete[39m
+2025-02-01T10:43:40.152Z | [32MINFO[39M | [32mgit.clone receiving stage 56% complete[39m
+2025-02-01T10:43:40.193Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:40.843Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:42.119Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:43.228Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:43.800Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:45.338Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:45.969Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:47.924Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:50.797Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T10:43:50.797Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T10:43:50.797Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T10:43:52.381Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:43:53.240Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:43:54.881Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:43:56.247Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:43:56.864Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:43:58.065Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:43:59.229Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:43:59.954Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:01.504Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:02.141Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:02.788Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:04.154Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:04.773Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:05.920Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:07.117Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:08.251Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:08.945Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:10.580Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:11.477Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:12.079Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:13.293Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:13.851Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:15.284Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:15.893Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:17.203Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:18.273Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:18.914Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:20.120Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:21.084Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:21.832Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:23.037Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:24.688Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:25.412Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:26.062Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:27.326Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T10:44:27.533Z | [32MINFO[39M | [32mgit.clone receiving stage 72% complete[39m
+2025-02-01T10:44:27.534Z | [32MINFO[39M | [32mgit.clone receiving stage 73% complete[39m
+2025-02-01T10:44:27.680Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T10:44:27.681Z | [32MINFO[39M | [32mgit.clone receiving stage 77% complete[39m
+2025-02-01T10:44:27.681Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T10:44:27.858Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T10:44:27.858Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T10:44:28.689Z | [32MINFO[39M | [32mgit.clone receiving stage 88% complete[39m
+2025-02-01T10:44:28.690Z | [32MINFO[39M | [32mgit.clone receiving stage 89% complete[39m
+2025-02-01T10:44:28.823Z | [32MINFO[39M | [32mgit.clone remote: stage 95% complete[39m
+2025-02-01T10:44:28.823Z | [32MINFO[39M | [32mgit.clone receiving stage 96% complete[39m
+2025-02-01T10:44:28.823Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T10:44:28.823Z | [32MINFO[39M | [32mgit.clone resolving stage 2% complete[39m
+2025-02-01T10:44:28.824Z | [32MINFO[39M | [32mgit.clone resolving stage 15% complete[39m
+2025-02-01T10:44:28.824Z | [32MINFO[39M | [32mgit.clone resolving stage 22% complete[39m
+2025-02-01T10:44:28.824Z | [32MINFO[39M | [32mgit.clone resolving stage 38% complete[39m
+2025-02-01T10:44:28.824Z | [32MINFO[39M | [32mgit.clone resolving stage 62% complete[39m
+2025-02-01T10:44:28.824Z | [32MINFO[39M | [32mgit.clone resolving stage 68% complete[39m
+2025-02-01T10:44:28.825Z | [32MINFO[39M | [32mgit.clone resolving stage 74% complete[39m
+2025-02-01T10:44:28.825Z | [32MINFO[39M | [32mgit.clone resolving stage 77% complete[39m
+2025-02-01T10:44:28.825Z | [32MINFO[39M | [32mgit.clone resolving stage 99% complete[39m
+2025-02-01T10:44:28.825Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T10:46:45.173Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T10:46:49.037Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T10:53:10.153Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T10:59:44.972Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:00:16.918Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:00:23.651Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:00:35.541Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:02:20.820Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:02:38.002Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:03:05.830Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:03:34.526Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:04:04.074Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:09:01.288Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:09:31.693Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:09:57.134Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:10:04.155Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:10:30.123Z | [32MINFO[39M | [32m[][39m
+2025-02-01T11:10:30.126Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T11:13:22.753Z | [32MINFO[39M | [32mht1tps1://github.co1m/p-society/vulkan/[39m
+2025-02-01T11:13:22.755Z | [31MERROR[39M | [31mInvalid Scheme, expected https://[39m
+2025-02-01T11:13:22.756Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan/[39m
+2025-02-01T11:13:22.756Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T11:13:22.756Z | [31MERROR[39M | [31mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T11:13:22.758Z | [32MINFO[39M | [32m12345[39m
+2025-02-01T11:13:22.758Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan/[39m
+2025-02-01T11:13:22.759Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T11:13:22.759Z | [31MERROR[39M | [31mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T12:33:23.088Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T12:33:23.090Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T12:33:23.090Z | [31MERROR[39M | [31mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T12:49:50.514Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T12:49:50.517Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T12:49:50.517Z | [31MERROR[39M | [31mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T12:50:26.086Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T12:50:26.088Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T12:50:26.089Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T12:51:07.121Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T12:51:07.123Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T12:51:07.123Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T12:51:08.114Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T12:51:08.115Z | [32MINFO[39M | [32mgit.clone remote: stage 21% complete[39m
+2025-02-01T12:51:08.116Z | [32MINFO[39M | [32mgit.clone remote: stage 33% complete[39m
+2025-02-01T12:51:08.179Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T12:51:08.179Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T12:51:08.180Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T12:51:08.241Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T12:51:08.242Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T12:51:08.245Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T12:51:08.245Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T12:51:08.245Z | [32MINFO[39M | [32mgit.clone receiving stage 48% complete[39m
+2025-02-01T12:51:08.245Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:51:08.570Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T12:51:08.570Z | [32MINFO[39M | [32mgit.clone receiving stage 59% complete[39m
+2025-02-01T12:51:09.230Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:51:10.298Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:51:11.526Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:51:12.800Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:51:13.302Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:51:14.761Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:51:14.931Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T12:51:14.932Z | [32MINFO[39M | [32mgit.clone receiving stage 66% complete[39m
+2025-02-01T12:51:15.113Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T12:51:15.114Z | [32MINFO[39M | [32mgit.clone receiving stage 70% complete[39m
+2025-02-01T12:51:15.252Z | [32MINFO[39M | [32mgit.clone receiving stage 77% complete[39m
+2025-02-01T12:51:15.252Z | [32MINFO[39M | [32mgit.clone receiving stage 78% complete[39m
+2025-02-01T12:51:15.581Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T12:51:15.885Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T12:51:15.948Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T12:51:15.948Z | [32MINFO[39M | [32mgit.clone receiving stage 87% complete[39m
+2025-02-01T12:51:16.015Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T12:51:16.015Z | [32MINFO[39M | [32mgit.clone receiving stage 96% complete[39m
+2025-02-01T12:51:16.016Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T12:51:16.016Z | [32MINFO[39M | [32mgit.clone resolving stage 4% complete[39m
+2025-02-01T12:51:16.016Z | [32MINFO[39M | [32mgit.clone resolving stage 17% complete[39m
+2025-02-01T12:51:16.016Z | [32MINFO[39M | [32mgit.clone resolving stage 33% complete[39m
+2025-02-01T12:51:16.016Z | [32MINFO[39M | [32mgit.clone resolving stage 42% complete[39m
+2025-02-01T12:51:16.016Z | [32MINFO[39M | [32mgit.clone resolving stage 48% complete[39m
+2025-02-01T12:51:16.017Z | [32MINFO[39M | [32mgit.clone resolving stage 57% complete[39m
+2025-02-01T12:51:16.017Z | [32MINFO[39M | [32mgit.clone resolving stage 62% complete[39m
+2025-02-01T12:51:16.017Z | [32MINFO[39M | [32mgit.clone resolving stage 71% complete[39m
+2025-02-01T12:51:16.017Z | [32MINFO[39M | [32mgit.clone resolving stage 76% complete[39m
+2025-02-01T12:51:16.017Z | [32MINFO[39M | [32mgit.clone resolving stage 82% complete[39m
+2025-02-01T12:51:16.017Z | [32MINFO[39M | [32mgit.clone resolving stage 87% complete[39m
+2025-02-01T12:51:16.017Z | [32MINFO[39M | [32mgit.clone resolving stage 96% complete[39m
+2025-02-01T12:51:16.018Z | [32MINFO[39M | [32mgit.clone resolving stage 99% complete[39m
+2025-02-01T12:51:16.018Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T12:54:56.217Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T12:54:56.219Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T12:54:56.219Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T12:55:17.091Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T12:55:17.093Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T12:55:17.094Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T12:55:18.399Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T12:55:18.400Z | [32MINFO[39M | [32mgit.clone remote: stage 15% complete[39m
+2025-02-01T12:55:18.468Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T12:55:18.468Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T12:55:18.474Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T12:55:18.474Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T12:55:18.534Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T12:55:18.535Z | [32MINFO[39M | [32mgit.clone receiving stage 22% complete[39m
+2025-02-01T12:55:18.543Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T12:55:18.543Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T12:55:18.545Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T12:55:18.545Z | [32MINFO[39M | [32mgit.clone receiving stage 52% complete[39m
+2025-02-01T12:55:18.546Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:55:19.162Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T12:55:19.162Z | [32MINFO[39M | [32mgit.clone receiving stage 59% complete[39m
+2025-02-01T12:55:19.472Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:20.484Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:20.611Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T12:55:20.612Z | [32MINFO[39M | [32mgit.clone receiving stage 66% complete[39m
+2025-02-01T12:55:20.612Z | [32MINFO[39M | [32mgit.clone receiving stage 75% complete[39m
+2025-02-01T12:55:20.627Z | [32MINFO[39M | [32mgit.clone receiving stage 77% complete[39m
+2025-02-01T12:55:20.627Z | [32MINFO[39M | [32mgit.clone receiving stage 78% complete[39m
+2025-02-01T12:55:20.631Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T12:55:20.632Z | [32MINFO[39M | [32mgit.clone receiving stage 84% complete[39m
+2025-02-01T12:55:20.676Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T12:55:20.681Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T12:55:20.682Z | [32MINFO[39M | [32mgit.clone receiving stage 87% complete[39m
+2025-02-01T12:55:20.682Z | [32MINFO[39M | [32mgit.clone receiving stage 95% complete[39m
+2025-02-01T12:55:20.682Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T12:55:20.682Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T12:55:20.683Z | [32MINFO[39M | [32mgit.clone resolving stage 6% complete[39m
+2025-02-01T12:55:20.683Z | [32MINFO[39M | [32mgit.clone resolving stage 19% complete[39m
+2025-02-01T12:55:20.683Z | [32MINFO[39M | [32mgit.clone resolving stage 33% complete[39m
+2025-02-01T12:55:20.683Z | [32MINFO[39M | [32mgit.clone resolving stage 44% complete[39m
+2025-02-01T12:55:20.683Z | [32MINFO[39M | [32mgit.clone resolving stage 58% complete[39m
+2025-02-01T12:55:20.684Z | [32MINFO[39M | [32mgit.clone resolving stage 66% complete[39m
+2025-02-01T12:55:20.684Z | [32MINFO[39M | [32mgit.clone resolving stage 76% complete[39m
+2025-02-01T12:55:20.684Z | [32MINFO[39M | [32mgit.clone resolving stage 88% complete[39m
+2025-02-01T12:55:20.684Z | [32MINFO[39M | [32mgit.clone resolving stage 97% complete[39m
+2025-02-01T12:55:20.684Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T12:55:20.684Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T12:55:21.694Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T12:55:21.695Z | [32MINFO[39M | [32mgit.clone remote: stage 15% complete[39m
+2025-02-01T12:55:21.797Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T12:55:21.797Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T12:55:21.797Z | [32MINFO[39M | [32mgit.clone receiving stage 16% complete[39m
+2025-02-01T12:55:21.926Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T12:55:21.927Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T12:55:21.927Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T12:55:21.927Z | [32MINFO[39M | [32mgit.clone receiving stage 23% complete[39m
+2025-02-01T12:55:21.927Z | [32MINFO[39M | [32mgit.clone receiving stage 26% complete[39m
+2025-02-01T12:55:21.927Z | [32MINFO[39M | [32mgit.clone receiving stage 32% complete[39m
+2025-02-01T12:55:21.928Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T12:55:21.928Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T12:55:21.928Z | [32MINFO[39M | [32mgit.clone receiving stage 43% complete[39m
+2025-02-01T12:55:21.928Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T12:55:21.928Z | [32MINFO[39M | [32mgit.clone receiving stage 55% complete[39m
+2025-02-01T12:55:21.928Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:55:22.943Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:55:22.944Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T12:55:24.019Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:25.312Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:25.995Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:27.661Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:27.726Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T12:55:27.727Z | [32MINFO[39M | [32mgit.clone receiving stage 66% complete[39m
+2025-02-01T12:55:27.727Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T12:55:27.730Z | [32MINFO[39M | [32mgit.clone receiving stage 77% complete[39m
+2025-02-01T12:55:27.730Z | [32MINFO[39M | [32mgit.clone receiving stage 78% complete[39m
+2025-02-01T12:55:27.901Z | [32MINFO[39M | [32mgit.clone receiving stage 82% complete[39m
+2025-02-01T12:55:27.964Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T12:55:27.965Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T12:55:27.966Z | [32MINFO[39M | [32mgit.clone receiving stage 87% complete[39m
+2025-02-01T12:55:27.966Z | [32MINFO[39M | [32mgit.clone receiving stage 93% complete[39m
+2025-02-01T12:55:27.971Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T12:55:27.971Z | [32MINFO[39M | [32mgit.clone receiving stage 95% complete[39m
+2025-02-01T12:55:27.971Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T12:55:27.972Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T12:55:27.972Z | [32MINFO[39M | [32mgit.clone resolving stage 3% complete[39m
+2025-02-01T12:55:27.972Z | [32MINFO[39M | [32mgit.clone resolving stage 15% complete[39m
+2025-02-01T12:55:27.972Z | [32MINFO[39M | [32mgit.clone resolving stage 28% complete[39m
+2025-02-01T12:55:27.972Z | [32MINFO[39M | [32mgit.clone resolving stage 38% complete[39m
+2025-02-01T12:55:27.972Z | [32MINFO[39M | [32mgit.clone resolving stage 49% complete[39m
+2025-02-01T12:55:27.973Z | [32MINFO[39M | [32mgit.clone resolving stage 63% complete[39m
+2025-02-01T12:55:27.973Z | [32MINFO[39M | [32mgit.clone resolving stage 76% complete[39m
+2025-02-01T12:55:27.973Z | [32MINFO[39M | [32mgit.clone resolving stage 81% complete[39m
+2025-02-01T12:55:27.973Z | [32MINFO[39M | [32mgit.clone resolving stage 85% complete[39m
+2025-02-01T12:55:27.973Z | [32MINFO[39M | [32mgit.clone resolving stage 91% complete[39m
+2025-02-01T12:55:27.973Z | [32MINFO[39M | [32mgit.clone resolving stage 98% complete[39m
+2025-02-01T12:55:27.973Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T12:55:27.974Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T12:55:29.152Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T12:55:29.153Z | [32MINFO[39M | [32mgit.clone remote: stage 24% complete[39m
+2025-02-01T12:55:29.155Z | [32MINFO[39M | [32mgit.clone remote: stage 54% complete[39m
+2025-02-01T12:55:29.155Z | [32MINFO[39M | [32mgit.clone remote: stage 65% complete[39m
+2025-02-01T12:55:29.160Z | [32MINFO[39M | [32mgit.clone remote: stage 67% complete[39m
+2025-02-01T12:55:29.161Z | [32MINFO[39M | [32mgit.clone remote: stage 96% complete[39m
+2025-02-01T12:55:29.225Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T12:55:29.225Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T12:55:29.225Z | [32MINFO[39M | [32mgit.clone receiving stage 12% complete[39m
+2025-02-01T12:55:29.231Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T12:55:29.231Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T12:55:29.382Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T12:55:29.382Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T12:55:29.382Z | [32MINFO[39M | [32mgit.clone receiving stage 35% complete[39m
+2025-02-01T12:55:29.383Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T12:55:29.383Z | [32MINFO[39M | [32mgit.clone receiving stage 41% complete[39m
+2025-02-01T12:55:30.469Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:55:30.622Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T12:55:30.622Z | [32MINFO[39M | [32mgit.clone receiving stage 59% complete[39m
+2025-02-01T12:55:31.520Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:32.594Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:33.677Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:35.016Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:35.835Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:36.471Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:37.589Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:55:37.693Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T12:55:37.693Z | [32MINFO[39M | [32mgit.clone receiving stage 66% complete[39m
+2025-02-01T12:55:37.713Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T12:55:37.714Z | [32MINFO[39M | [32mgit.clone receiving stage 70% complete[39m
+2025-02-01T12:55:37.754Z | [32MINFO[39M | [32mgit.clone receiving stage 77% complete[39m
+2025-02-01T12:55:37.754Z | [32MINFO[39M | [32mgit.clone receiving stage 78% complete[39m
+2025-02-01T12:55:37.761Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T12:55:37.932Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T12:55:37.985Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T12:55:37.986Z | [32MINFO[39M | [32mgit.clone receiving stage 87% complete[39m
+2025-02-01T12:55:37.999Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T12:55:37.999Z | [32MINFO[39M | [32mgit.clone receiving stage 96% complete[39m
+2025-02-01T12:55:37.999Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T12:55:37.999Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T12:55:37.999Z | [32MINFO[39M | [32mgit.clone resolving stage 6% complete[39m
+2025-02-01T12:55:38.000Z | [32MINFO[39M | [32mgit.clone resolving stage 17% complete[39m
+2025-02-01T12:55:38.000Z | [32MINFO[39M | [32mgit.clone resolving stage 28% complete[39m
+2025-02-01T12:55:38.000Z | [32MINFO[39M | [32mgit.clone resolving stage 45% complete[39m
+2025-02-01T12:55:38.000Z | [32MINFO[39M | [32mgit.clone resolving stage 54% complete[39m
+2025-02-01T12:55:38.000Z | [32MINFO[39M | [32mgit.clone resolving stage 63% complete[39m
+2025-02-01T12:55:38.000Z | [32MINFO[39M | [32mgit.clone resolving stage 70% complete[39m
+2025-02-01T12:55:38.001Z | [32MINFO[39M | [32mgit.clone resolving stage 76% complete[39m
+2025-02-01T12:55:38.001Z | [32MINFO[39M | [32mgit.clone resolving stage 82% complete[39m
+2025-02-01T12:55:38.001Z | [32MINFO[39M | [32mgit.clone resolving stage 85% complete[39m
+2025-02-01T12:55:38.001Z | [32MINFO[39M | [32mgit.clone resolving stage 89% complete[39m
+2025-02-01T12:55:38.001Z | [32MINFO[39M | [32mgit.clone resolving stage 96% complete[39m
+2025-02-01T12:55:38.001Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T12:55:38.001Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T12:55:39.260Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T12:55:39.261Z | [32MINFO[39M | [32mgit.clone remote: stage 16% complete[39m
+2025-02-01T12:55:39.399Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T12:55:39.400Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T12:55:39.400Z | [32MINFO[39M | [32mgit.clone receiving stage 14% complete[39m
+2025-02-01T12:55:39.400Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T12:55:39.401Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T12:55:39.465Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T12:55:39.466Z | [32MINFO[39M | [32mgit.clone receiving stage 26% complete[39m
+2025-02-01T12:55:39.469Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T12:55:39.470Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T12:55:39.470Z | [32MINFO[39M | [32mgit.clone receiving stage 47% complete[39m
+2025-02-01T12:55:39.470Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T12:55:39.470Z | [32MINFO[39M | [32mgit.clone receiving stage 56% complete[39m
+2025-02-01T12:55:40.881Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:55:41.204Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T12:55:41.204Z | [32MINFO[39M | [32mgit.clone receiving stage 59% complete[39m
+2025-02-01T12:57:01.628Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T12:57:01.630Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T12:57:01.630Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T12:57:02.840Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T12:57:02.841Z | [32MINFO[39M | [32mgit.clone remote: stage 20% complete[39m
+2025-02-01T12:57:02.842Z | [32MINFO[39M | [32mgit.clone remote: stage 81% complete[39m
+2025-02-01T12:57:02.842Z | [32MINFO[39M | [32mgit.clone remote: stage 90% complete[39m
+2025-02-01T12:57:02.909Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T12:57:02.910Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T12:57:03.134Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T12:57:03.135Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T12:57:03.135Z | [32MINFO[39M | [32mgit.clone receiving stage 22% complete[39m
+2025-02-01T12:57:03.135Z | [32MINFO[39M | [32mgit.clone receiving stage 31% complete[39m
+2025-02-01T12:57:03.309Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T12:57:03.309Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T12:57:03.309Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:57:04.119Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:57:06.115Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:57:07.369Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T12:57:08.188Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T12:57:08.189Z | [32MINFO[39M | [32mgit.clone receiving stage 59% complete[39m
+2025-02-01T12:57:09.180Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:57:10.229Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:57:11.324Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:57:12.333Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T12:57:13.272Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T12:57:13.272Z | [32MINFO[39M | [32mgit.clone receiving stage 66% complete[39m
+2025-02-01T12:57:13.313Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T12:57:13.313Z | [32MINFO[39M | [32mgit.clone receiving stage 70% complete[39m
+2025-02-01T12:57:13.336Z | [32MINFO[39M | [32mgit.clone receiving stage 77% complete[39m
+2025-02-01T12:57:13.337Z | [32MINFO[39M | [32mgit.clone receiving stage 78% complete[39m
+2025-02-01T12:57:13.366Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T12:57:13.441Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T12:57:13.461Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T12:57:13.462Z | [32MINFO[39M | [32mgit.clone receiving stage 87% complete[39m
+2025-02-01T12:57:13.489Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T12:57:13.489Z | [32MINFO[39M | [32mgit.clone receiving stage 96% complete[39m
+2025-02-01T12:57:13.490Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T12:57:13.490Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T12:57:13.490Z | [32MINFO[39M | [32mgit.clone resolving stage 4% complete[39m
+2025-02-01T12:57:13.490Z | [32MINFO[39M | [32mgit.clone resolving stage 22% complete[39m
+2025-02-01T12:57:13.490Z | [32MINFO[39M | [32mgit.clone resolving stage 35% complete[39m
+2025-02-01T12:57:13.490Z | [32MINFO[39M | [32mgit.clone resolving stage 46% complete[39m
+2025-02-01T12:57:13.491Z | [32MINFO[39M | [32mgit.clone resolving stage 59% complete[39m
+2025-02-01T12:57:13.491Z | [32MINFO[39M | [32mgit.clone resolving stage 62% complete[39m
+2025-02-01T12:57:13.491Z | [32MINFO[39M | [32mgit.clone resolving stage 69% complete[39m
+2025-02-01T12:57:13.491Z | [32MINFO[39M | [32mgit.clone resolving stage 77% complete[39m
+2025-02-01T12:57:13.491Z | [32MINFO[39M | [32mgit.clone resolving stage 79% complete[39m
+2025-02-01T12:57:13.492Z | [32MINFO[39M | [32mgit.clone resolving stage 93% complete[39m
+2025-02-01T12:57:13.492Z | [32MINFO[39M | [32mgit.clone resolving stage 96% complete[39m
+2025-02-01T12:57:13.492Z | [32MINFO[39M | [32mgit.clone resolving stage 99% complete[39m
+2025-02-01T12:57:13.492Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:05:03.911Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:05:03.913Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:05:03.914Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:05:05.788Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:05:05.788Z | [32MINFO[39M | [32mgit.clone remote: stage 19% complete[39m
+2025-02-01T13:05:05.791Z | [32MINFO[39M | [32mgit.clone remote: stage 41% complete[39m
+2025-02-01T13:05:05.792Z | [32MINFO[39M | [32mgit.clone remote: stage 53% complete[39m
+2025-02-01T13:05:05.925Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T13:05:05.925Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T13:05:05.926Z | [32MINFO[39M | [32mgit.clone receiving stage 16% complete[39m
+2025-02-01T13:05:05.929Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T13:05:05.929Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T13:05:05.991Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:05:05.992Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T13:05:05.997Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T13:05:05.998Z | [32MINFO[39M | [32mgit.clone receiving stage 26% complete[39m
+2025-02-01T13:05:06.120Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T13:05:06.120Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T13:05:06.121Z | [32MINFO[39M | [32mgit.clone receiving stage 44% complete[39m
+2025-02-01T13:05:06.121Z | [32MINFO[39M | [32mgit.clone receiving stage 49% complete[39m
+2025-02-01T13:05:06.124Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T13:05:06.124Z | [32MINFO[39M | [32mgit.clone receiving stage 52% complete[39m
+2025-02-01T13:05:06.124Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:05:06.967Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:05:07.628Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:05:07.628Z | [32MINFO[39M | [32mgit.clone receiving stage 59% complete[39m
+2025-02-01T13:05:08.018Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:09.036Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:10.060Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:10.192Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T13:05:10.192Z | [32MINFO[39M | [32mgit.clone receiving stage 66% complete[39m
+2025-02-01T13:05:10.198Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T13:05:10.198Z | [32MINFO[39M | [32mgit.clone receiving stage 70% complete[39m
+2025-02-01T13:05:10.198Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T13:05:10.198Z | [32MINFO[39M | [32mgit.clone receiving stage 79% complete[39m
+2025-02-01T13:05:10.199Z | [32MINFO[39M | [32mgit.clone receiving stage 81% complete[39m
+2025-02-01T13:05:10.209Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T13:05:10.215Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T13:05:10.256Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T13:05:10.257Z | [32MINFO[39M | [32mgit.clone receiving stage 87% complete[39m
+2025-02-01T13:05:10.263Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T13:05:10.263Z | [32MINFO[39M | [32mgit.clone receiving stage 95% complete[39m
+2025-02-01T13:05:10.263Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T13:05:10.263Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T13:05:10.264Z | [32MINFO[39M | [32mgit.clone resolving stage 3% complete[39m
+2025-02-01T13:05:10.264Z | [32MINFO[39M | [32mgit.clone resolving stage 24% complete[39m
+2025-02-01T13:05:10.264Z | [32MINFO[39M | [32mgit.clone resolving stage 40% complete[39m
+2025-02-01T13:05:10.264Z | [32MINFO[39M | [32mgit.clone resolving stage 52% complete[39m
+2025-02-01T13:05:10.264Z | [32MINFO[39M | [32mgit.clone resolving stage 59% complete[39m
+2025-02-01T13:05:10.265Z | [32MINFO[39M | [32mgit.clone resolving stage 68% complete[39m
+2025-02-01T13:05:10.265Z | [32MINFO[39M | [32mgit.clone resolving stage 74% complete[39m
+2025-02-01T13:05:10.265Z | [32MINFO[39M | [32mgit.clone resolving stage 80% complete[39m
+2025-02-01T13:05:10.265Z | [32MINFO[39M | [32mgit.clone resolving stage 88% complete[39m
+2025-02-01T13:05:10.265Z | [32MINFO[39M | [32mgit.clone resolving stage 96% complete[39m
+2025-02-01T13:05:10.265Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:05:10.266Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:05:37.172Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:05:37.174Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:05:37.175Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:05:38.475Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:05:38.475Z | [32MINFO[39M | [32mgit.clone remote: stage 32% complete[39m
+2025-02-01T13:05:38.653Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T13:05:38.653Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T13:05:38.653Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T13:05:38.716Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:05:38.717Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T13:05:38.719Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T13:05:38.720Z | [32MINFO[39M | [32mgit.clone receiving stage 26% complete[39m
+2025-02-01T13:05:38.727Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T13:05:38.727Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T13:05:38.727Z | [32MINFO[39M | [32mgit.clone receiving stage 48% complete[39m
+2025-02-01T13:05:38.727Z | [32MINFO[39M | [32mgit.clone receiving stage 55% complete[39m
+2025-02-01T13:05:38.727Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:05:40.134Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:05:40.134Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:05:40.134Z | [32MINFO[39M | [32mgit.clone receiving stage 59% complete[39m
+2025-02-01T13:05:40.930Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:42.108Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:42.664Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:45.517Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:46.040Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:47.103Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:47.656Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:48.786Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:50.151Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:50.700Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:51.927Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:53.088Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:05:53.703Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T13:05:53.704Z | [32MINFO[39M | [32mgit.clone receiving stage 66% complete[39m
+2025-02-01T13:05:53.736Z | [32MINFO[39M | [32mgit.clone receiving stage 77% complete[39m
+2025-02-01T13:05:53.736Z | [32MINFO[39M | [32mgit.clone receiving stage 78% complete[39m
+2025-02-01T13:05:53.768Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T13:05:53.831Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T13:05:53.832Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T13:05:53.888Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T13:05:53.888Z | [32MINFO[39M | [32mgit.clone receiving stage 96% complete[39m
+2025-02-01T13:05:53.889Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T13:05:53.889Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T13:05:53.889Z | [32MINFO[39M | [32mgit.clone resolving stage 2% complete[39m
+2025-02-01T13:05:53.889Z | [32MINFO[39M | [32mgit.clone resolving stage 13% complete[39m
+2025-02-01T13:05:53.889Z | [32MINFO[39M | [32mgit.clone resolving stage 30% complete[39m
+2025-02-01T13:05:53.890Z | [32MINFO[39M | [32mgit.clone resolving stage 40% complete[39m
+2025-02-01T13:05:53.890Z | [32MINFO[39M | [32mgit.clone resolving stage 56% complete[39m
+2025-02-01T13:05:53.890Z | [32MINFO[39M | [32mgit.clone resolving stage 69% complete[39m
+2025-02-01T13:05:53.890Z | [32MINFO[39M | [32mgit.clone resolving stage 77% complete[39m
+2025-02-01T13:05:53.890Z | [32MINFO[39M | [32mgit.clone resolving stage 83% complete[39m
+2025-02-01T13:05:53.890Z | [32MINFO[39M | [32mgit.clone resolving stage 91% complete[39m
+2025-02-01T13:05:53.890Z | [32MINFO[39M | [32mgit.clone resolving stage 97% complete[39m
+2025-02-01T13:05:53.891Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:08:25.542Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:08:25.544Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:08:25.544Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:08:26.702Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:08:26.703Z | [32MINFO[39M | [32mgit.clone remote: stage 14% complete[39m
+2025-02-01T13:08:26.708Z | [32MINFO[39M | [32mgit.clone remote: stage 31% complete[39m
+2025-02-01T13:08:26.709Z | [32MINFO[39M | [32mgit.clone remote: stage 50% complete[39m
+2025-02-01T13:08:26.767Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T13:08:26.768Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T13:08:26.773Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T13:08:26.774Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T13:08:26.917Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:08:26.917Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T13:08:26.922Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T13:08:26.924Z | [32MINFO[39M | [32mgit.clone receiving stage 27% complete[39m
+2025-02-01T13:08:26.925Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:08:28.206Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:08:28.391Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:08:28.391Z | [32MINFO[39M | [32mgit.clone receiving stage 59% complete[39m
+2025-02-01T13:08:28.880Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:30.124Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:31.261Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:31.802Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:32.946Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:34.244Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:34.947Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:36.473Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:37.091Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:08:37.230Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:08:37.230Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T13:08:37.289Z | [32MINFO[39M | [32mgit.clone receiving stage 68% complete[39m
+2025-02-01T13:08:37.290Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T13:08:37.326Z | [32MINFO[39M | [32mgit.clone receiving stage 75% complete[39m
+2025-02-01T13:08:37.327Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T13:08:37.355Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T13:08:37.483Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T13:08:37.527Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T13:08:37.527Z | [32MINFO[39M | [32mgit.clone receiving stage 88% complete[39m
+2025-02-01T13:08:37.550Z | [32MINFO[39M | [32mgit.clone receiving stage 91% complete[39m
+2025-02-01T13:08:37.550Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T13:08:37.550Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T13:08:37.551Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T13:08:37.551Z | [32MINFO[39M | [32mgit.clone resolving stage 3% complete[39m
+2025-02-01T13:08:37.551Z | [32MINFO[39M | [32mgit.clone resolving stage 19% complete[39m
+2025-02-01T13:08:37.551Z | [32MINFO[39M | [32mgit.clone resolving stage 31% complete[39m
+2025-02-01T13:08:37.551Z | [32MINFO[39M | [32mgit.clone resolving stage 44% complete[39m
+2025-02-01T13:08:37.552Z | [32MINFO[39M | [32mgit.clone resolving stage 53% complete[39m
+2025-02-01T13:08:37.552Z | [32MINFO[39M | [32mgit.clone resolving stage 71% complete[39m
+2025-02-01T13:08:37.552Z | [32MINFO[39M | [32mgit.clone resolving stage 77% complete[39m
+2025-02-01T13:08:37.552Z | [32MINFO[39M | [32mgit.clone resolving stage 84% complete[39m
+2025-02-01T13:08:37.552Z | [32MINFO[39M | [32mgit.clone resolving stage 95% complete[39m
+2025-02-01T13:08:37.553Z | [32MINFO[39M | [32mgit.clone resolving stage 99% complete[39m
+2025-02-01T13:08:37.553Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:10:11.135Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:10:11.137Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:10:11.137Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:10:11.153Z | [31MERROR[39M | [31mError during git operation: error: pathspec 'https://github.com/p-society/vulkan' did not match any file(s) known to git[39m
+[31m[39m
+2025-02-01T13:10:21.232Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:10:21.233Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:10:21.233Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:10:22.437Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:10:22.438Z | [32MINFO[39M | [32mgit.clone remote: stage 13% complete[39m
+2025-02-01T13:10:22.571Z | [32MINFO[39M | [32mgit.clone remote: stage 27% complete[39m
+2025-02-01T13:10:22.572Z | [32MINFO[39M | [32mgit.clone remote: stage 45% complete[39m
+2025-02-01T13:10:22.573Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T13:10:22.719Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:10:22.719Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T13:10:22.878Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T13:10:22.878Z | [32MINFO[39M | [32mgit.clone receiving stage 27% complete[39m
+2025-02-01T13:10:22.999Z | [32MINFO[39M | [32mgit.clone receiving stage 35% complete[39m
+2025-02-01T13:10:23.023Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T13:10:23.024Z | [32MINFO[39M | [32mgit.clone receiving stage 38% complete[39m
+2025-02-01T13:10:23.059Z | [32MINFO[39M | [32mgit.clone receiving stage 50% complete[39m
+2025-02-01T13:10:23.060Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T13:10:23.088Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:10:23.674Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:10:24.759Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:10:26.689Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:10:27.901Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:10:27.901Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:10:29.288Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:29.845Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:31.337Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:31.873Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:32.921Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:33.954Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:35.011Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:36.526Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:37.046Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:37.572Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:38.670Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:39.914Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:40.578Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:41.813Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:43.063Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:43.633Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:44.833Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:46.027Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:10:46.807Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:10:46.807Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T13:10:46.873Z | [32MINFO[39M | [32mgit.clone receiving stage 68% complete[39m
+2025-02-01T13:10:46.873Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T13:10:46.939Z | [32MINFO[39M | [32mgit.clone receiving stage 75% complete[39m
+2025-02-01T13:10:46.940Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T13:10:46.940Z | [32MINFO[39M | [32mgit.clone receiving stage 84% complete[39m
+2025-02-01T13:10:47.141Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T13:10:47.142Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T13:10:47.142Z | [32MINFO[39M | [32mgit.clone receiving stage 87% complete[39m
+2025-02-01T13:10:47.201Z | [32MINFO[39M | [32mgit.clone receiving stage 91% complete[39m
+2025-02-01T13:10:47.201Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T13:10:47.201Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T13:10:47.201Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T13:10:47.202Z | [32MINFO[39M | [32mgit.clone resolving stage 10% complete[39m
+2025-02-01T13:10:47.202Z | [32MINFO[39M | [32mgit.clone resolving stage 32% complete[39m
+2025-02-01T13:10:47.202Z | [32MINFO[39M | [32mgit.clone resolving stage 43% complete[39m
+2025-02-01T13:10:47.202Z | [32MINFO[39M | [32mgit.clone resolving stage 50% complete[39m
+2025-02-01T13:10:47.202Z | [32MINFO[39M | [32mgit.clone resolving stage 51% complete[39m
+2025-02-01T13:10:47.202Z | [32MINFO[39M | [32mgit.clone resolving stage 62% complete[39m
+2025-02-01T13:10:47.203Z | [32MINFO[39M | [32mgit.clone resolving stage 70% complete[39m
+2025-02-01T13:10:47.203Z | [32MINFO[39M | [32mgit.clone resolving stage 76% complete[39m
+2025-02-01T13:10:47.203Z | [32MINFO[39M | [32mgit.clone resolving stage 81% complete[39m
+2025-02-01T13:10:47.203Z | [32MINFO[39M | [32mgit.clone resolving stage 91% complete[39m
+2025-02-01T13:10:47.203Z | [32MINFO[39M | [32mgit.clone resolving stage 93% complete[39m
+2025-02-01T13:10:47.203Z | [32MINFO[39M | [32mgit.clone resolving stage 98% complete[39m
+2025-02-01T13:10:47.203Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:12:24.549Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:12:24.551Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:12:24.551Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:12:25.757Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:12:25.757Z | [32MINFO[39M | [32mgit.clone remote: stage 17% complete[39m
+2025-02-01T13:12:25.763Z | [32MINFO[39M | [32mgit.clone remote: stage 84% complete[39m
+2025-02-01T13:12:25.764Z | [32MINFO[39M | [32mgit.clone remote: stage 94% complete[39m
+2025-02-01T13:12:25.960Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T13:12:25.961Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T13:12:26.031Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T13:12:26.031Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T13:12:26.174Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:12:26.174Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T13:12:26.181Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T13:12:26.181Z | [32MINFO[39M | [32mgit.clone receiving stage 27% complete[39m
+2025-02-01T13:12:26.457Z | [32MINFO[39M | [32mgit.clone receiving stage 35% complete[39m
+2025-02-01T13:12:26.602Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T13:12:26.602Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T13:12:26.671Z | [32MINFO[39M | [32mgit.clone receiving stage 50% complete[39m
+2025-02-01T13:12:26.671Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T13:12:26.743Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:27.369Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:28.086Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:29.071Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:30.888Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:31.554Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:32.604Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:33.276Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:34.570Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:35.095Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:36.426Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:37.170Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:38.391Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:39.328Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:40.580Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:42.076Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:12:42.076Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:12:42.076Z | [32MINFO[39M | [32mgit.clone receiving stage 60% complete[39m
+2025-02-01T13:12:43.166Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:46.024Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:47.348Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:48.019Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:49.896Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:50.562Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:51.570Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:52.117Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:53.208Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:54.241Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:55.795Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:56.600Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:57.262Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:58.247Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:12:59.116Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:00.369Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:01.690Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:02.321Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:03.905Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:04.484Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:05.161Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:06.442Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:07.427Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:08.153Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:09.790Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:10.612Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:11.345Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:12.498Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:13.036Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:14.429Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:15.315Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:16.244Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:17.800Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:18.668Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:19.447Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:20.107Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:21.326Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:23.128Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:24.413Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:25.325Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:25.979Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:27.347Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:28.512Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:29.403Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:30.038Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:31.878Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:32.859Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:33.597Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:34.163Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:13:35.140Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:13:35.141Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T13:13:35.404Z | [32MINFO[39M | [32mgit.clone receiving stage 68% complete[39m
+2025-02-01T13:13:35.404Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T13:13:36.160Z | [32MINFO[39M | [32mgit.clone receiving stage 74% complete[39m
+2025-02-01T13:13:36.161Z | [32MINFO[39M | [32mgit.clone receiving stage 75% complete[39m
+2025-02-01T13:13:37.063Z | [32MINFO[39M | [32mgit.clone receiving stage 82% complete[39m
+2025-02-01T13:13:37.064Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T13:13:38.095Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T13:13:38.391Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T13:13:38.392Z | [32MINFO[39M | [32mgit.clone receiving stage 88% complete[39m
+2025-02-01T13:13:38.670Z | [32MINFO[39M | [32mgit.clone receiving stage 91% complete[39m
+2025-02-01T13:13:38.670Z | [32MINFO[39M | [32mgit.clone receiving stage 93% complete[39m
+2025-02-01T13:13:38.671Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T13:13:38.671Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T13:13:38.671Z | [32MINFO[39M | [32mgit.clone resolving stage 2% complete[39m
+2025-02-01T13:13:38.671Z | [32MINFO[39M | [32mgit.clone resolving stage 12% complete[39m
+2025-02-01T13:13:38.672Z | [32MINFO[39M | [32mgit.clone resolving stage 29% complete[39m
+2025-02-01T13:13:38.672Z | [32MINFO[39M | [32mgit.clone resolving stage 39% complete[39m
+2025-02-01T13:13:38.672Z | [32MINFO[39M | [32mgit.clone resolving stage 52% complete[39m
+2025-02-01T13:13:38.672Z | [32MINFO[39M | [32mgit.clone resolving stage 55% complete[39m
+2025-02-01T13:13:38.672Z | [32MINFO[39M | [32mgit.clone resolving stage 68% complete[39m
+2025-02-01T13:13:38.672Z | [32MINFO[39M | [32mgit.clone resolving stage 74% complete[39m
+2025-02-01T13:13:38.673Z | [32MINFO[39M | [32mgit.clone resolving stage 82% complete[39m
+2025-02-01T13:13:38.673Z | [32MINFO[39M | [32mgit.clone resolving stage 89% complete[39m
+2025-02-01T13:13:38.673Z | [32MINFO[39M | [32mgit.clone resolving stage 92% complete[39m
+2025-02-01T13:13:38.673Z | [32MINFO[39M | [32mgit.clone resolving stage 99% complete[39m
+2025-02-01T13:13:38.673Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:40:01.929Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:40:01.931Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:40:01.931Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:40:01.944Z | [31MERROR[39M | [31mError during git operation: error: pathspec 'https://github.com/p-society/vulkan' did not match any file(s) known to git[39m
+[31m[39m
+2025-02-01T13:40:08.895Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:40:08.897Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:40:08.898Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:40:08.910Z | [31MERROR[39M | [31mError during git operation: error: pathspec 'https://github.com/p-society/vulkan' did not match any file(s) known to git[39m
+[31m[39m
+2025-02-01T13:40:24.479Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:40:24.481Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:40:24.481Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:40:25.548Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:40:25.549Z | [32MINFO[39M | [32mgit.clone remote: stage 44% complete[39m
+2025-02-01T13:40:25.550Z | [32MINFO[39M | [32mgit.clone remote: stage 91% complete[39m
+2025-02-01T13:40:25.551Z | [32MINFO[39M | [32mgit.clone remote: stage 97% complete[39m
+2025-02-01T13:40:26.064Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T13:40:26.064Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T13:40:26.065Z | [32MINFO[39M | [32mgit.clone receiving stage 16% complete[39m
+2025-02-01T13:40:26.282Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T13:40:26.282Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T13:40:27.569Z | [32MINFO[39M | [32mgit.clone receiving stage 19% complete[39m
+2025-02-01T13:40:27.569Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:40:27.570Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T13:40:27.919Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T13:40:27.919Z | [32MINFO[39M | [32mgit.clone receiving stage 27% complete[39m
+2025-02-01T13:40:28.132Z | [32MINFO[39M | [32mgit.clone receiving stage 34% complete[39m
+2025-02-01T13:40:28.672Z | [32MINFO[39M | [32mgit.clone receiving stage 35% complete[39m
+2025-02-01T13:40:28.672Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T13:40:28.812Z | [32MINFO[39M | [32mgit.clone receiving stage 50% complete[39m
+2025-02-01T13:40:28.813Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T13:40:29.024Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:29.589Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:30.161Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:31.645Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:32.623Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:34.006Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:35.484Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:36.648Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:37.394Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:38.512Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:39.491Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:41.029Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:43.577Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:44.307Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:46.588Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:47.573Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:49.081Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:50.271Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:52.824Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:40:52.969Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:40:52.969Z | [32MINFO[39M | [32mgit.clone receiving stage 60% complete[39m
+2025-02-01T13:40:53.632Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:40:54.615Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:40:55.903Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:40:56.564Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:40:57.766Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:40:59.493Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:00.253Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:01.720Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:02.329Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:03.384Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:04.356Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:04.930Z | [31MERROR[39M | [31mError during git operation: Cloning into 'tests/test - 0'...[39m
+[31mremote: Enumerating objects: 382, done.        [39m
+[31mremote: Counting objects:   0% (1/114)        [39m[31mremote: Counting objects:   1% (2/114)        [39m[31mremote: Counting objects:   2% (3/114)        [39m[31mremote: Counting objects:   3% (4/114)        [39m[31mremote: Counting objects:   4% (5/114)        [39m[31mremote: Counting objects:   5% (6/114)        [39m[31mremote: Counting objects:   6% (7/114)        [39m[31mremote: Counting objects:   7% (8/114)        [39m[31mremote: Counting objects:   8% (10/114)        [39m[31mremote: Counting objects:   9% (11/114)        [39m[31mremote: Counting objects:  10% (12/114)        [39m[31mremote: Counting objects:  11% (13/114)        [39m[31mremote: Counting objects:  12% (14/114)        [39m[31mremote: Counting objects:  13% (15/114)        [39m[31mremote: Counting objects:  14% (16/114)        [39m[31mremote: Counting objects:  15% (18/114)        [39m[31mremote: Counting objects:  16% (19/114)        [39m[31mremote: Counting objects:  17% (20/114)        [39m[31mremote: Counting objects:  18% (21/114)        [39m[31mremote: Counting objects:  19% (22/114)        [39m[31mremote: Counting objects:  20% (23/114)        [39m[31mremote: Counting objects:  21% (24/114)        [39m[31mremote: Counting objects:  22% (26/114)        [39m[31mremote: Counting objects:  23% (27/114)        [39m[31mremote: Counting objects:  24% (28/114)        [39m[31mremote: Counting objects:  25% (29/114)        [39m[31mremote: Counting objects:  26% (30/114)        [39m[31mremote: Counting objects:  27% (31/114)        [39m[31mremote: Counting objects:  28% (32/114)        [39m[31mremote: Counting objects:  29% (34/114)        [39m[31mremote: Counting objects:  30% (35/114)        [39m[31mremote: Counting objects:  31% (36/114)        [39m[31mremote: Counting objects:  32% (37/114)        [39m[31mremote: Counting objects:  33% (38/114)        [39m[31mremote: Counting objects:  34% (39/114)        [39m[31mremote: Counting objects:  35% (40/114)        [39m[31mremote: Counting objects:  36% (42/114)        [39m[31mremote: Counting objects:  37% (43/114)        [39m[31mremote: Counting objects:  38% (44/114)        [39m[31mremote: Counting objects:  39% (45/114)        [39m[31mremote: Counting objects:  40% (46/114)        [39m[31mremote: Counting objects:  41% (47/114)        [39m[31mremote: Counting objects:  42% (48/114)        [39m[31mremote: Counting objects:  43% (50/114)        [39m[31mremote: Counting objects:  44% (51/114)        [39m[31mremote: Counting objects:  45% (52/114)        [39m[31mremote: Counting objects:  46% (53/114)        [39m[31mremote: Counting objects:  47% (54/114)        [39m[31mremote: Counting objects:  48% (55/114)        [39m[31mremote: Counting objects:  49% (56/114)        [39m[31mremote: Counting objects:  50% (57/114)        [39m[31mremote: Counting objects:  51% (59/114)        [39m[31mremote: Counting objects:  52% (60/114)        [39m[31mremote: Counting objects:  53% (61/114)        [39m[31mremote: Counting objects:  54% (62/114)        [39m[31mremote: Counting objects:  55% (63/114)        [39m[31mremote: Counting objects:  56% (64/114)        [39m[31mremote: Counting objects:  57% (65/114)        [39m[31mremote: Counting objects:  58% (67/114)        [39m[31mremote: Counting objects:  59% (68/114)        [39m[31mremote: Counting objects:  60% (69/114)        [39m[31mremote: Counting objects:  61% (70/114)        [39m[31mremote: Counting objects:  62% (71/114)        [39m[31mremote: Counting objects:  63% (72/114)        [39m[31mremote: Counting objects:  64% (73/114)        [39m[31mremote: Counting objects:  65% (75/114)        [39m[31mremote: Counting objects:  66% (76/114)        [39m[31mremote: Counting objects:  67% (77/114)        [39m[31mremote: Counting objects:  68% (78/114)        [39m[31mremote: Counting objects:  69% (79/114)        [39m[31mremote: Counting objects:  70% (80/114)        [39m[31mremote: Counting objects:  71% (81/114)        [39m[31mremote: Counting objects:  72% (83/114)        [39m[31mremote: Counting objects:  73% (84/114)        [39m[31mremote: Counting objects:  74% (85/114)        [39m[31mremote: Counting objects:  75% (86/114)        [39m[31mremote: Counting objects:  76% (87/114)        [39m[31mremote: Counting objects:  77% (88/114)        [39m[31mremote: Counting objects:  78% (89/114)        [39m[31mremote: Counting objects:  79% (91/114)        [39m[31mremote: Counting objects:  80% (92/114)        [39m[31mremote: Counting objects:  81% (93/114)        [39m[31mremote: Counting objects:  82% (94/114)        [39m[31mremote: Counting objects:  83% (95/114)        [39m[31mremote: Counting objects:  84% (96/114)        [39m[31mremote: Counting objects:  85% (97/114)        [39m[31mremote: Counting objects:  86% (99/114)        [39m[31mremote: Counting objects:  87% (100/114)        [39m[31mremote: Counting objects:  88% (101/114)        [39m[31mremote: Counting objects:  89% (102/114)        [39m[31mremote: Counting objects:  90% (103/114)        [39m[31mremote: Counting objects:  91% (104/114)        [39m[31mremote: Counting objects:  92% (105/114)        [39m[31mremote: Counting objects:  93% (107/114)        [39m[31mremote: Counting objects:  94% (108/114)        [39m[31mremote: Counting objects:  95% (109/114)        [39m[31mremote: Counting objects:  96% (110/114)        [39m[31mremote: Counting objects:  97% (111/114)        [39m[31mremote: Counting objects:  98% (112/114)        [39m[31mremote: Counting objects:  99% (113/114)        [39m[31mremote: Counting objects: 100% (114/114)        [39m[31mremote: Counting objects: 100% (114/114), done.        [39m
+[31mremote: Compressing objects:   1% (1/70)        [39m[31mremote: Compressing objects:   2% (2/70)        [39m[31mremote: Compressing objects:   4% (3/70)        [39m[31mremote: Compressing objects:   5% (4/70)        [39m[31mremote: Compressing objects:   7% (5/70)        [39m[31mremote: Compressing objects:   8% (6/70)        [39m[31mremote: Compressing objects:  10% (7/70)        [39m[31mremote: Compressing objects:  11% (8/70)        [39m[31mremote: Compressing objects:  12% (9/70)        [39m[31mremote: Compressing objects:  14% (10/70)        [39m[31mremote: Compressing objects:  15% (11/70)        [39m[31mremote: Compressing objects:  17% (12/70)        [39m[31mremote: Compressing objects:  18% (13/70)        [39m[31mremote: Compressing objects:  20% (14/70)        [39m[31mremote: Compressing objects:  21% (15/70)        [39m[31mremote: Compressing objects:  22% (16/70)        [39m[31mremote: Compressing objects:  24% (17/70)        [39m[31mremote: Compressing objects:  25% (18/70)        [39m[31mremote: Compressing objects:  27% (19/70)        [39m[31mremote: Compressing objects:  28% (20/70)        [39m[31mremote: Compressing objects:  30% (21/70)        [39m[31mremote: Compressing objects:  31% (22/70)        [39m[31mremote: Compressing objects:  32% (23/70)        [39m[31mremote: Compressing objects:  34% (24/70)        [39m[31mremote: Compressing objects:  35% (25/70)        [39m[31mremote: Compressing objects:  37% (26/70)        [39m[31mremote: Compressing objects:  38% (27/70)        [39m[31mremote: Compressing objects:  40% (28/70)        [39m[31mremote: Compressing objects:  41% (29/70)        [39m[31mremote: Compressing objects:  42% (30/70)        [39m[31mremote: Compressing objects:  44% (31/70)        [39m[31mremote: Compressing objects:  45% (32/70)        [39m[31mremote: Compressing objects:  47% (33/70)        [39m[31mremote: Compressing objects:  48% (34/70)        [39m[31mremote: Compressing objects:  50% (35/70)        [39m[31mremote: Compressing objects:  51% (36/70)        [39m[31mremote: Compressing objects:  52% (37/70)        [39m[31mremote: Compressing objects:  54% (38/70)        [39m[31mremote: Compressing objects:  55% (39/70)        [39m[31mremote: Compressing objects:  57% (40/70)        [39m[31mremote: Compressing objects:  58% (41/70)        [39m[31mremote: Compressing objects:  60% (42/70)        [39m[31mremote: Compressing objects:  61% (43/70)        [39m[31mremote: Compressing objects:  62% (44/70)        [39m[31mremote: Compressing objects:  64% (45/70)        [39m[31mremote: Compressing objects:  65% (46/70)        [39m[31mremote: Compressing objects:  67% (47/70)        [39m[31mremote: Compressing objects:  68% (48/70)        [39m[31mremote: Compressing objects:  70% (49/70)        [39m[31mremote: Compressing objects:  71% (50/70)        [39m[31mremote: Compressing objects:  72% (51/70)        [39m[31mremote: Compressing objects:  74% (52/70)        [39m[31mremote: Compressing objects:  75% (53/70)        [39m[31mremote: Compressing objects:  77% (54/70)        [39m[31mremote: Compressing objects:  78% (55/70)        [39m[31mremote: Compressing objects:  80% (56/70)        [39m[31mremote: Compressing objects:  81% (57/70)        [39m[31mremote: Compressing objects:  82% (58/70)        [39m[31mremote: Compressing objects:  84% (59/70)        [39m[31mremote: Compressing objects:  85% (60/70)        [39m[31mremote: Compressing objects:  87% (61/70)        [39m[31mremote: Compressing objects:  88% (62/70)        [39m[31mremote: Compressing objects:  90% (63/70)        [39m[31mremote: Compressing objects:  91% (64/70)        [39m[31mremote: Compressing objects:  92% (65/70)        [39m[31mremote: Compressing objects:  94% (66/70)        [39m[31mremote: Compressing objects:  95% (67/70)        [39m[31mremote: Compressing objects:  97% (68/70)        [39m[31mremote: Compressing objects:  98% (69/70)        [39m[31mremote: Compressing objects: 100% (70/70)        [39m[31mremote: Compressing objects: 100% (70/70), done.        [39m
+[31mReceiving objects:   0% (1/382)[39m[31mReceiving objects:   1% (4/382)[39m[31mReceiving objects:   2% (8/382)[39m[31mReceiving objects:   3% (12/382)[39m[31mReceiving objects:   4% (16/382)[39m[31mReceiving objects:   5% (20/382)[39m[31mReceiving objects:   6% (23/382)[39m[31mReceiving objects:   7% (27/382)[39m[31mReceiving objects:   8% (31/382)[39m[31mReceiving objects:   9% (35/382)[39m[31mReceiving objects:  10% (39/382)[39m[31mReceiving objects:  11% (43/382)[39m[31mReceiving objects:  12% (46/382)[39m[31mReceiving objects:  13% (50/382)[39m[31mReceiving objects:  14% (54/382)[39m[31mReceiving objects:  15% (58/382)[39m[31mReceiving objects:  16% (62/382)[39m[31mReceiving objects:  17% (65/382)[39m[31mReceiving objects:  18% (69/382)[39m[31mReceiving objects:  19% (73/382)[39m[31mReceiving objects:  19% (75/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  20% (77/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  21% (81/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  22% (85/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  23% (88/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  24% (92/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  25% (96/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  26% (100/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  27% (104/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  28% (107/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  29% (111/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  30% (115/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  31% (119/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  32% (123/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  33% (127/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  34% (130/382), 20.01 KiB | 7.00 KiB/s[39m[31mReceiving objects:  34% (133/382), 44.01 KiB | 17.00 KiB/s[39m[31mReceiving objects:  35% (134/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  36% (138/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  37% (142/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  38% (146/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  39% (149/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  40% (153/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  41% (157/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  42% (161/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  43% (165/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  44% (169/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  45% (172/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  46% (176/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  47% (180/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  48% (184/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  49% (188/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  50% (191/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  51% (195/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  52% (199/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  53% (203/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  54% (207/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  55% (211/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  56% (214/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 52.01 KiB | 16.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 84.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 100.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 124.01 KiB | 20.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 140.01 KiB | 20.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 164.01 KiB | 19.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 180.01 KiB | 18.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 228.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 260.01 KiB | 23.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 300.01 KiB | 23.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 332.01 KiB | 26.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 372.01 KiB | 27.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 380.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 404.01 KiB | 25.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 428.01 KiB | 20.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 444.01 KiB | 18.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 452.01 KiB | 14.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 476.01 KiB | 13.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 500.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  58% (222/382), 500.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  59% (226/382), 500.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  60% (230/382), 500.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  61% (234/382), 500.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  62% (237/382), 500.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  63% (241/382), 500.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 516.01 KiB | 13.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 540.01 KiB | 13.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 548.01 KiB | 11.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 564.01 KiB | 13.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 580.01 KiB | 13.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 604.01 KiB | 14.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 628.01 KiB | 15.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 676.01 KiB | 19.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 692.01 KiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 700.01 KiB | 18.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 732.01 KiB | 21.00 KiB/s[39m[31merror: RPC failed; curl 92 HTTP/2 stream 5 was not closed cleanly: CANCEL (err 8)[39m
+[31merror: 8202 bytes of body are still expected[39m
+[31mfetch-pack: unexpected disconnect while reading sideband packet[39m
+[31mfatal: early EOF[39m
+[31mfatal: fetch-pack: invalid index-pack output[39m
+[31m[39m
+2025-02-01T13:41:25.776Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:41:25.778Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:41:25.778Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:41:29.056Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:41:29.124Z | [32MINFO[39M | [32mgit.clone remote: stage 26% complete[39m
+2025-02-01T13:41:29.125Z | [32MINFO[39M | [32mgit.clone remote: stage 55% complete[39m
+2025-02-01T13:41:29.131Z | [32MINFO[39M | [32mgit.clone remote: stage 5% complete[39m
+2025-02-01T13:41:29.131Z | [32MINFO[39M | [32mgit.clone remote: stage 17% complete[39m
+2025-02-01T13:41:29.192Z | [32MINFO[39M | [32mgit.clone remote: stage 44% complete[39m
+2025-02-01T13:41:29.193Z | [32MINFO[39M | [32mgit.clone remote: stage 75% complete[39m
+2025-02-01T13:41:29.203Z | [32MINFO[39M | [32mgit.clone remote: stage 85% complete[39m
+2025-02-01T13:41:29.423Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T13:41:29.424Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T13:41:29.424Z | [32MINFO[39M | [32mgit.clone receiving stage 15% complete[39m
+2025-02-01T13:41:29.623Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T13:41:29.624Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T13:41:31.863Z | [32MINFO[39M | [32mgit.clone receiving stage 19% complete[39m
+2025-02-01T13:41:31.864Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:41:32.670Z | [32MINFO[39M | [32mgit.clone receiving stage 34% complete[39m
+2025-02-01T13:41:33.585Z | [32MINFO[39M | [32mgit.clone receiving stage 34% complete[39m
+2025-02-01T13:41:33.585Z | [32MINFO[39M | [32mgit.clone receiving stage 35% complete[39m
+2025-02-01T13:41:34.570Z | [32MINFO[39M | [32mgit.clone receiving stage 35% complete[39m
+2025-02-01T13:41:34.571Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T13:41:34.571Z | [32MINFO[39M | [32mgit.clone receiving stage 48% complete[39m
+2025-02-01T13:41:34.886Z | [32MINFO[39M | [32mgit.clone receiving stage 50% complete[39m
+2025-02-01T13:41:34.886Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T13:41:35.321Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:37.001Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:37.841Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:38.430Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:39.630Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:40.851Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:41.506Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:42.905Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:43.699Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:45.179Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:46.421Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:46.944Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:47.455Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:48.602Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:51.749Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:56.002Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:41:56.002Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:41:56.745Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:58.227Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:59.045Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:41:59.699Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:01.311Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:02.000Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:02.752Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:04.677Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:05.793Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:06.778Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:07.704Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:08.429Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:09.712Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:10.838Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:12.247Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:13.319Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:13.993Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:14.498Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:16.072Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:16.580Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:18.083Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:18.764Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:19.562Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:20.972Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:21.860Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:22.985Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:23.704Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:24.812Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:26.613Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:28.304Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:29.043Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:29.543Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:30.770Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:32.499Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:33.800Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:35.308Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:36.219Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:37.284Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:38.787Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:40.087Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:40.923Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:41.576Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:43.555Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:44.615Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:45.829Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:46.852Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:47.925Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:48.442Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:51.199Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:51.699Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:52.945Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:54.852Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:56.333Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:42:57.673Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:00.760Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:02.193Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:03.499Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:04.633Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:06.178Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:07.096Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:08.073Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:09.092Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:09.726Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:43:10.151Z | [31MERROR[39M | [31mError during git operation: Cloning into 'tests/test - 0'...[39m
+[31mremote: Enumerating objects: 382, done.        [39m
+[31mremote: Counting objects:   0% (1/114)        [39m[31mremote: Counting objects:   1% (2/114)        [39m[31mremote: Counting objects:   2% (3/114)        [39m[31mremote: Counting objects:   3% (4/114)        [39m[31mremote: Counting objects:   4% (5/114)        [39m[31mremote: Counting objects:   5% (6/114)        [39m[31mremote: Counting objects:   6% (7/114)        [39m[31mremote: Counting objects:   7% (8/114)        [39m[31mremote: Counting objects:   8% (10/114)        [39m[31mremote: Counting objects:   9% (11/114)        [39m[31mremote: Counting objects:  10% (12/114)        [39m[31mremote: Counting objects:  11% (13/114)        [39m[31mremote: Counting objects:  12% (14/114)        [39m[31mremote: Counting objects:  13% (15/114)        [39m[31mremote: Counting objects:  14% (16/114)        [39m[31mremote: Counting objects:  15% (18/114)        [39m[31mremote: Counting objects:  16% (19/114)        [39m[31mremote: Counting objects:  17% (20/114)        [39m[31mremote: Counting objects:  18% (21/114)        [39m[31mremote: Counting objects:  19% (22/114)        [39m[31mremote: Counting objects:  20% (23/114)        [39m[31mremote: Counting objects:  21% (24/114)        [39m[31mremote: Counting objects:  22% (26/114)        [39m[31mremote: Counting objects:  23% (27/114)        [39m[31mremote: Counting objects:  24% (28/114)        [39m[31mremote: Counting objects:  25% (29/114)        [39m[31mremote: Counting objects:  26% (30/114)        [39m[31mremote: Counting objects:  27% (31/114)        [39m[31mremote: Counting objects:  28% (32/114)        [39m[31mremote: Counting objects:  29% (34/114)        [39m[31mremote: Counting objects:  30% (35/114)        [39m[31mremote: Counting objects:  31% (36/114)        [39m[31mremote: Counting objects:  32% (37/114)        [39m[31mremote: Counting objects:  33% (38/114)        [39m[31mremote: Counting objects:  34% (39/114)        [39m[31mremote: Counting objects:  35% (40/114)        [39m[31mremote: Counting objects:  36% (42/114)        [39m[31mremote: Counting objects:  37% (43/114)        [39m[31mremote: Counting objects:  38% (44/114)        [39m[31mremote: Counting objects:  39% (45/114)        [39m[31mremote: Counting objects:  40% (46/114)        [39m[31mremote: Counting objects:  41% (47/114)        [39m[31mremote: Counting objects:  42% (48/114)        [39m[31mremote: Counting objects:  43% (50/114)        [39m[31mremote: Counting objects:  44% (51/114)        [39m[31mremote: Counting objects:  45% (52/114)        [39m[31mremote: Counting objects:  46% (53/114)        [39m[31mremote: Counting objects:  47% (54/114)        [39m[31mremote: Counting objects:  48% (55/114)        [39m[31mremote: Counting objects:  49% (56/114)        [39m[31mremote: Counting objects:  50% (57/114)        [39m[31mremote: Counting objects:  51% (59/114)        [39m[31mremote: Counting objects:  52% (60/114)        [39m[31mremote: Counting objects:  53% (61/114)        [39m[31mremote: Counting objects:  54% (62/114)        [39m[31mremote: Counting objects:  55% (63/114)        [39m[31mremote: Counting objects:  56% (64/114)        [39m[31mremote: Counting objects:  57% (65/114)        [39m[31mremote: Counting objects:  58% (67/114)        [39m[31mremote: Counting objects:  59% (68/114)        [39m[31mremote: Counting objects:  60% (69/114)        [39m[31mremote: Counting objects:  61% (70/114)        [39m[31mremote: Counting objects:  62% (71/114)        [39m[31mremote: Counting objects:  63% (72/114)        [39m[31mremote: Counting objects:  64% (73/114)        [39m[31mremote: Counting objects:  65% (75/114)        [39m[31mremote: Counting objects:  66% (76/114)        [39m[31mremote: Counting objects:  67% (77/114)        [39m[31mremote: Counting objects:  68% (78/114)        [39m[31mremote: Counting objects:  69% (79/114)        [39m[31mremote: Counting objects:  70% (80/114)        [39m[31mremote: Counting objects:  71% (81/114)        [39m[31mremote: Counting objects:  72% (83/114)        [39m[31mremote: Counting objects:  73% (84/114)        [39m[31mremote: Counting objects:  74% (85/114)        [39m[31mremote: Counting objects:  75% (86/114)        [39m[31mremote: Counting objects:  76% (87/114)        [39m[31mremote: Counting objects:  77% (88/114)        [39m[31mremote: Counting objects:  78% (89/114)        [39m[31mremote: Counting objects:  79% (91/114)        [39m[31mremote: Counting objects:  80% (92/114)        [39m[31mremote: Counting objects:  81% (93/114)        [39m[31mremote: Counting objects:  82% (94/114)        [39m[31mremote: Counting objects:  83% (95/114)        [39m[31mremote: Counting objects:  84% (96/114)        [39m[31mremote: Counting objects:  85% (97/114)        [39m[31mremote: Counting objects:  86% (99/114)        [39m[31mremote: Counting objects:  87% (100/114)        [39m[31mremote: Counting objects:  88% (101/114)        [39m[31mremote: Counting objects:  89% (102/114)        [39m[31mremote: Counting objects:  90% (103/114)        [39m[31mremote: Counting objects:  91% (104/114)        [39m[31mremote: Counting objects:  92% (105/114)        [39m[31mremote: Counting objects:  93% (107/114)        [39m[31mremote: Counting objects:  94% (108/114)        [39m[31mremote: Counting objects:  95% (109/114)        [39m[31mremote: Counting objects:  96% (110/114)        [39m[31mremote: Counting objects:  97% (111/114)        [39m[31mremote: Counting objects:  98% (112/114)        [39m[31mremote: Counting objects:  99% (113/114)        [39m[31mremote: Counting objects: 100% (114/114)        [39m[31mremote: Counting objects: 100% (114/114), done.        [39m
+[31mremote: Compressing objects:   1% (1/70)        [39m[31mremote: Compressing objects:   2% (2/70)        [39m[31mremote: Compressing objects:   4% (3/70)        [39m[31mremote: Compressing objects:   5% (4/70)        [39m[31mremote: Compressing objects:   7% (5/70)        [39m[31mremote: Compressing objects:   8% (6/70)        [39m[31mremote: Compressing objects:  10% (7/70)        [39m[31mremote: Compressing objects:  11% (8/70)        [39m[31mremote: Compressing objects:  12% (9/70)        [39m[31mremote: Compressing objects:  14% (10/70)        [39m[31mremote: Compressing objects:  15% (11/70)        [39m[31mremote: Compressing objects:  17% (12/70)        [39m[31mremote: Compressing objects:  18% (13/70)        [39m[31mremote: Compressing objects:  20% (14/70)        [39m[31mremote: Compressing objects:  21% (15/70)        [39m[31mremote: Compressing objects:  22% (16/70)        [39m[31mremote: Compressing objects:  24% (17/70)        [39m[31mremote: Compressing objects:  25% (18/70)        [39m[31mremote: Compressing objects:  27% (19/70)        [39m[31mremote: Compressing objects:  28% (20/70)        [39m[31mremote: Compressing objects:  30% (21/70)        [39m[31mremote: Compressing objects:  31% (22/70)        [39m[31mremote: Compressing objects:  32% (23/70)        [39m[31mremote: Compressing objects:  34% (24/70)        [39m[31mremote: Compressing objects:  35% (25/70)        [39m[31mremote: Compressing objects:  37% (26/70)        [39m[31mremote: Compressing objects:  38% (27/70)        [39m[31mremote: Compressing objects:  40% (28/70)        [39m[31mremote: Compressing objects:  41% (29/70)        [39m[31mremote: Compressing objects:  42% (30/70)        [39m[31mremote: Compressing objects:  44% (31/70)        [39m[31mremote: Compressing objects:  45% (32/70)        [39m[31mremote: Compressing objects:  47% (33/70)        [39m[31mremote: Compressing objects:  48% (34/70)        [39m[31mremote: Compressing objects:  50% (35/70)        [39m[31mremote: Compressing objects:  51% (36/70)        [39m[31mremote: Compressing objects:  52% (37/70)        [39m[31mremote: Compressing objects:  54% (38/70)        [39m[31mremote: Compressing objects:  55% (39/70)        [39m[31mremote: Compressing objects:  57% (40/70)        [39m[31mremote: Compressing objects:  58% (41/70)        [39m[31mremote: Compressing objects:  60% (42/70)        [39m[31mremote: Compressing objects:  61% (43/70)        [39m[31mremote: Compressing objects:  62% (44/70)        [39m[31mremote: Compressing objects:  64% (45/70)        [39m[31mremote: Compressing objects:  65% (46/70)        [39m[31mremote: Compressing objects:  67% (47/70)        [39m[31mremote: Compressing objects:  68% (48/70)        [39m[31mremote: Compressing objects:  70% (49/70)        [39m[31mremote: Compressing objects:  71% (50/70)        [39m[31mremote: Compressing objects:  72% (51/70)        [39m[31mremote: Compressing objects:  74% (52/70)        [39m[31mremote: Compressing objects:  75% (53/70)        [39m[31mremote: Compressing objects:  77% (54/70)        [39m[31mremote: Compressing objects:  78% (55/70)        [39m[31mremote: Compressing objects:  80% (56/70)        [39m[31mremote: Compressing objects:  81% (57/70)        [39m[31mremote: Compressing objects:  82% (58/70)        [39m[31mremote: Compressing objects:  84% (59/70)        [39m[31mremote: Compressing objects:  85% (60/70)        [39m[31mremote: Compressing objects:  87% (61/70)        [39m[31mremote: Compressing objects:  88% (62/70)        [39m[31mremote: Compressing objects:  90% (63/70)        [39m[31mremote: Compressing objects:  91% (64/70)        [39m[31mremote: Compressing objects:  92% (65/70)        [39m[31mremote: Compressing objects:  94% (66/70)        [39m[31mremote: Compressing objects:  95% (67/70)        [39m[31mremote: Compressing objects:  97% (68/70)        [39m[31mremote: Compressing objects:  98% (69/70)        [39m[31mremote: Compressing objects: 100% (70/70)        [39m[31mremote: Compressing objects: 100% (70/70), done.        [39m
+[31mReceiving objects:   0% (1/382)[39m[31mReceiving objects:   1% (4/382)[39m[31mReceiving objects:   2% (8/382)[39m[31mReceiving objects:   3% (12/382)[39m[31mReceiving objects:   4% (16/382)[39m[31mReceiving objects:   5% (20/382)[39m[31mReceiving objects:   6% (23/382)[39m[31mReceiving objects:   7% (27/382)[39m[31mReceiving objects:   8% (31/382)[39m[31mReceiving objects:   9% (35/382)[39m[31mReceiving objects:  10% (39/382)[39m[31mReceiving objects:  11% (43/382)[39m[31mReceiving objects:  12% (46/382)[39m[31mReceiving objects:  13% (50/382)[39m[31mReceiving objects:  14% (54/382)[39m[31mReceiving objects:  15% (58/382)[39m[31mReceiving objects:  16% (62/382)[39m[31mReceiving objects:  17% (65/382)[39m[31mReceiving objects:  18% (69/382)[39m[31mReceiving objects:  19% (73/382)[39m[31mReceiving objects:  19% (75/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  20% (77/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  21% (81/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  22% (85/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  23% (88/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  24% (92/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  25% (96/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  26% (100/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  27% (104/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  28% (107/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  29% (111/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  30% (115/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  31% (119/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  32% (123/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  33% (127/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  34% (130/382), 28.01 KiB | 8.00 KiB/s[39m[31mReceiving objects:  34% (133/382), 44.01 KiB | 11.00 KiB/s[39m[31mReceiving objects:  34% (133/382), 52.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  35% (134/382), 52.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  35% (135/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  36% (138/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  37% (142/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  38% (146/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  39% (149/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  40% (153/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  41% (157/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  42% (161/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  43% (165/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  44% (169/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  45% (172/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  46% (176/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  47% (180/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  48% (184/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  49% (188/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  50% (191/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  51% (195/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  52% (199/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  53% (203/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  54% (207/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  55% (211/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  56% (214/382), 60.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 76.01 KiB | 11.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 84.01 KiB | 10.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 108.01 KiB | 11.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 132.01 KiB | 13.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 172.01 KiB | 18.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 196.01 KiB | 19.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 212.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 244.01 KiB | 27.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 252.01 KiB | 24.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 292.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 308.01 KiB | 20.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 316.01 KiB | 19.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 340.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 380.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 436.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  57% (218/382), 499.99 KiB | 19.00 KiB/s[39m[31mReceiving objects:  58% (222/382), 499.99 KiB | 19.00 KiB/s[39m[31mReceiving objects:  59% (226/382), 499.99 KiB | 19.00 KiB/s[39m[31mReceiving objects:  60% (230/382), 499.99 KiB | 19.00 KiB/s[39m[31mReceiving objects:  61% (234/382), 499.99 KiB | 19.00 KiB/s[39m[31mReceiving objects:  62% (237/382), 499.99 KiB | 19.00 KiB/s[39m[31mReceiving objects:  63% (241/382), 499.99 KiB | 19.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 560.01 KiB | 23.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 572.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 588.01 KiB | 22.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 604.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 644.01 KiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 676.01 KiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 700.01 KiB | 23.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 716.01 KiB | 24.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 756.01 KiB | 24.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 772.01 KiB | 23.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 780.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 796.01 KiB | 19.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 828.01 KiB | 19.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 844.01 KiB | 17.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 892.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 908.01 KiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 924.01 KiB | 21.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 956.01 KiB | 25.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1020.01 KiB | 29.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.02 MiB | 31.00 KiB/s   [39m[31mReceiving objects:  63% (244/382), 1.04 MiB | 29.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.06 MiB | 28.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.07 MiB | 27.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.09 MiB | 27.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.11 MiB | 25.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.14 MiB | 24.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.15 MiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.18 MiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.19 MiB | 18.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.21 MiB | 16.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.23 MiB | 17.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.24 MiB | 17.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.25 MiB | 16.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.27 MiB | 15.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.31 MiB | 15.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.32 MiB | 13.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.34 MiB | 15.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.36 MiB | 16.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.38 MiB | 15.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.44 MiB | 21.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.46 MiB | 22.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.47 MiB | 21.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.48 MiB | 18.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.50 MiB | 19.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.54 MiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.56 MiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.61 MiB | 24.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.62 MiB | 22.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.64 MiB | 17.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.65 MiB | 18.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.67 MiB | 20.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.68 MiB | 17.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.70 MiB | 16.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.71 MiB | 14.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.73 MiB | 10.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.78 MiB | 11.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.81 MiB | 14.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.83 MiB | 14.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.86 MiB | 14.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.89 MiB | 16.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.90 MiB | 17.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.92 MiB | 18.00 KiB/s[39m[31mReceiving objects:  63% (244/382), 1.94 MiB | 24.00 KiB/s[39m[31merror: RPC failed; curl 92 HTTP/2 stream 5 was not closed cleanly: CANCEL (err 8)[39m
+[31merror: 30 bytes of body are still expected[39m
+[31mfetch-pack: unexpected disconnect while reading sideband packet[39m
+[31mfatal: early EOF[39m
+[31mfatal: fetch-pack: invalid index-pack output[39m
+[31m[39m
+2025-02-01T13:45:37.692Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:45:37.694Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:45:37.694Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:45:38.688Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:45:38.688Z | [32MINFO[39M | [32mgit.clone remote: stage 15% complete[39m
+2025-02-01T13:45:38.837Z | [32MINFO[39M | [32mgit.clone remote: stage 32% complete[39m
+2025-02-01T13:45:38.838Z | [32MINFO[39M | [32mgit.clone remote: stage 52% complete[39m
+2025-02-01T13:45:38.838Z | [32MINFO[39M | [32mgit.clone receiving stage 4% complete[39m
+2025-02-01T13:45:38.838Z | [32MINFO[39M | [32mgit.clone receiving stage 15% complete[39m
+2025-02-01T13:45:38.905Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T13:45:38.905Z | [32MINFO[39M | [32mgit.clone receiving stage 18% complete[39m
+2025-02-01T13:45:39.117Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:45:39.118Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T13:45:39.214Z | [32MINFO[39M | [32mgit.clone receiving stage 35% complete[39m
+2025-02-01T13:45:39.300Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T13:45:39.300Z | [32MINFO[39M | [32mgit.clone receiving stage 38% complete[39m
+2025-02-01T13:45:39.342Z | [32MINFO[39M | [32mgit.clone receiving stage 50% complete[39m
+2025-02-01T13:45:39.343Z | [32MINFO[39M | [32mgit.clone receiving stage 52% complete[39m
+2025-02-01T13:45:39.410Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:40.290Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:41.289Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:41.921Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:42.863Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:43.994Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:45.135Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:46.288Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:46.909Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:48.020Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:49.497Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:50.292Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:51.207Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:51.941Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:53.037Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:45:53.537Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:45:53.538Z | [32MINFO[39M | [32mgit.clone receiving stage 60% complete[39m
+2025-02-01T13:45:54.121Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:45:55.292Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:45:56.469Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:45:57.079Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:45:58.157Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:00.034Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:01.313Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:02.086Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:04.490Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:06.024Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:07.353Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:07.873Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:09.411Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:10.105Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:11.193Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:12.422Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:13.615Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:14.266Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:15.590Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:16.318Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:16.989Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:19.078Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:20.158Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:20.961Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:22.327Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:23.871Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:25.393Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:26.106Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:27.119Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:28.497Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:29.056Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:30.223Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:31.277Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:46:31.821Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:46:31.821Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T13:46:31.822Z | [32MINFO[39M | [32mgit.clone receiving stage 71% complete[39m
+2025-02-01T13:46:31.822Z | [32MINFO[39M | [32mgit.clone receiving stage 73% complete[39m
+2025-02-01T13:46:31.853Z | [32MINFO[39M | [32mgit.clone receiving stage 75% complete[39m
+2025-02-01T13:46:31.853Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T13:46:31.888Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T13:46:31.956Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T13:46:31.956Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T13:46:32.002Z | [32MINFO[39M | [32mgit.clone receiving stage 91% complete[39m
+2025-02-01T13:46:32.003Z | [32MINFO[39M | [32mgit.clone receiving stage 94% complete[39m
+2025-02-01T13:46:32.003Z | [32MINFO[39M | [32mgit.clone receiving stage 99% complete[39m
+2025-02-01T13:46:32.003Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T13:46:32.003Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T13:46:32.004Z | [32MINFO[39M | [32mgit.clone resolving stage 3% complete[39m
+2025-02-01T13:46:32.005Z | [32MINFO[39M | [32mgit.clone resolving stage 17% complete[39m
+2025-02-01T13:46:32.005Z | [32MINFO[39M | [32mgit.clone resolving stage 58% complete[39m
+2025-02-01T13:46:32.005Z | [32MINFO[39M | [32mgit.clone resolving stage 63% complete[39m
+2025-02-01T13:46:32.005Z | [32MINFO[39M | [32mgit.clone resolving stage 65% complete[39m
+2025-02-01T13:46:32.006Z | [32MINFO[39M | [32mgit.clone resolving stage 66% complete[39m
+2025-02-01T13:46:32.006Z | [32MINFO[39M | [32mgit.clone resolving stage 74% complete[39m
+2025-02-01T13:46:32.006Z | [32MINFO[39M | [32mgit.clone resolving stage 77% complete[39m
+2025-02-01T13:46:32.006Z | [32MINFO[39M | [32mgit.clone resolving stage 82% complete[39m
+2025-02-01T13:46:32.006Z | [32MINFO[39M | [32mgit.clone resolving stage 88% complete[39m
+2025-02-01T13:46:32.006Z | [32MINFO[39M | [32mgit.clone resolving stage 89% complete[39m
+2025-02-01T13:46:32.007Z | [32MINFO[39M | [32mgit.clone resolving stage 95% complete[39m
+2025-02-01T13:46:32.007Z | [32MINFO[39M | [32mgit.clone resolving stage 99% complete[39m
+2025-02-01T13:46:32.007Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:46:32.029Z | [31MERROR[39M | [31minvalid runtime![39m
+2025-02-01T13:48:29.171Z | [31MERROR[39M | [31minvalid runtime![39m
+2025-02-01T13:48:41.337Z | [31MERROR[39M | [31minvalid runtime![39m
+2025-02-01T13:54:23.279Z | [31MERROR[39M | [31minvalid runtime![39m
+2025-02-01T13:59:10.358Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:59:10.360Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:59:10.361Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:59:10.376Z | [31MERROR[39M | [31mError during git operation: error: pathspec 'https://github.com/p-society/vulkan' did not match any file(s) known to git[39m
+[31m[39m
+2025-02-01T13:59:25.416Z | [32MINFO[39M | [32mhttps://github.com/p-society/vulkan[39m
+2025-02-01T13:59:25.419Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T13:59:25.419Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T13:59:26.708Z | [32MINFO[39M | [32mgit.clone remote: stage 0% complete[39m
+2025-02-01T13:59:26.708Z | [32MINFO[39M | [32mgit.clone remote: stage 65% complete[39m
+2025-02-01T13:59:26.713Z | [32MINFO[39M | [32mgit.clone remote: stage 31% complete[39m
+2025-02-01T13:59:26.714Z | [32MINFO[39M | [32mgit.clone remote: stage 60% complete[39m
+2025-02-01T13:59:26.892Z | [32MINFO[39M | [32mgit.clone receiving stage 0% complete[39m
+2025-02-01T13:59:26.893Z | [32MINFO[39M | [32mgit.clone receiving stage 1% complete[39m
+2025-02-01T13:59:26.894Z | [32MINFO[39M | [32mgit.clone receiving stage 17% complete[39m
+2025-02-01T13:59:26.954Z | [32MINFO[39M | [32mgit.clone receiving stage 20% complete[39m
+2025-02-01T13:59:26.955Z | [32MINFO[39M | [32mgit.clone receiving stage 21% complete[39m
+2025-02-01T13:59:26.958Z | [32MINFO[39M | [32mgit.clone receiving stage 25% complete[39m
+2025-02-01T13:59:26.958Z | [32MINFO[39M | [32mgit.clone receiving stage 26% complete[39m
+2025-02-01T13:59:26.959Z | [32MINFO[39M | [32mgit.clone receiving stage 31% complete[39m
+2025-02-01T13:59:26.959Z | [32MINFO[39M | [32mgit.clone receiving stage 35% complete[39m
+2025-02-01T13:59:26.959Z | [32MINFO[39M | [32mgit.clone receiving stage 36% complete[39m
+2025-02-01T13:59:26.959Z | [32MINFO[39M | [32mgit.clone receiving stage 37% complete[39m
+2025-02-01T13:59:26.959Z | [32MINFO[39M | [32mgit.clone receiving stage 43% complete[39m
+2025-02-01T13:59:26.961Z | [32MINFO[39M | [32mgit.clone receiving stage 50% complete[39m
+2025-02-01T13:59:26.962Z | [32MINFO[39M | [32mgit.clone receiving stage 51% complete[39m
+2025-02-01T13:59:26.962Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:59:28.009Z | [32MINFO[39M | [32mgit.clone receiving stage 57% complete[39m
+2025-02-01T13:59:28.206Z | [32MINFO[39M | [32mgit.clone receiving stage 58% complete[39m
+2025-02-01T13:59:28.206Z | [32MINFO[39M | [32mgit.clone receiving stage 60% complete[39m
+2025-02-01T13:59:29.043Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:30.183Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:31.333Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:32.465Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:32.972Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:34.271Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:34.956Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:35.987Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:37.214Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:38.409Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:39.036Z | [32MINFO[39M | [32mgit.clone receiving stage 63% complete[39m
+2025-02-01T13:59:39.037Z | [32MINFO[39M | [32mgit.clone receiving stage 64% complete[39m
+2025-02-01T13:59:39.037Z | [32MINFO[39M | [32mgit.clone receiving stage 65% complete[39m
+2025-02-01T13:59:39.037Z | [32MINFO[39M | [32mgit.clone receiving stage 69% complete[39m
+2025-02-01T13:59:39.112Z | [32MINFO[39M | [32mgit.clone receiving stage 75% complete[39m
+2025-02-01T13:59:39.112Z | [32MINFO[39M | [32mgit.clone receiving stage 76% complete[39m
+2025-02-01T13:59:39.112Z | [32MINFO[39M | [32mgit.clone receiving stage 83% complete[39m
+2025-02-01T13:59:39.113Z | [32MINFO[39M | [32mgit.clone receiving stage 84% complete[39m
+2025-02-01T13:59:39.360Z | [32MINFO[39M | [32mgit.clone receiving stage 85% complete[39m
+2025-02-01T13:59:39.361Z | [32MINFO[39M | [32mgit.clone receiving stage 86% complete[39m
+2025-02-01T13:59:39.419Z | [32MINFO[39M | [32mgit.clone receiving stage 91% complete[39m
+2025-02-01T13:59:39.420Z | [32MINFO[39M | [32mgit.clone receiving stage 93% complete[39m
+2025-02-01T13:59:39.478Z | [32MINFO[39M | [32mgit.clone receiving stage 96% complete[39m
+2025-02-01T13:59:39.478Z | [32MINFO[39M | [32mgit.clone resolving stage 0% complete[39m
+2025-02-01T13:59:39.478Z | [32MINFO[39M | [32mgit.clone resolving stage 1% complete[39m
+2025-02-01T13:59:39.479Z | [32MINFO[39M | [32mgit.clone resolving stage 2% complete[39m
+2025-02-01T13:59:39.479Z | [32MINFO[39M | [32mgit.clone resolving stage 9% complete[39m
+2025-02-01T13:59:39.479Z | [32MINFO[39M | [32mgit.clone resolving stage 22% complete[39m
+2025-02-01T13:59:39.479Z | [32MINFO[39M | [32mgit.clone resolving stage 27% complete[39m
+2025-02-01T13:59:39.479Z | [32MINFO[39M | [32mgit.clone resolving stage 38% complete[39m
+2025-02-01T13:59:39.480Z | [32MINFO[39M | [32mgit.clone resolving stage 45% complete[39m
+2025-02-01T13:59:39.480Z | [32MINFO[39M | [32mgit.clone resolving stage 58% complete[39m
+2025-02-01T13:59:39.480Z | [32MINFO[39M | [32mgit.clone resolving stage 63% complete[39m
+2025-02-01T13:59:39.480Z | [32MINFO[39M | [32mgit.clone resolving stage 65% complete[39m
+2025-02-01T13:59:39.480Z | [32MINFO[39M | [32mgit.clone resolving stage 73% complete[39m
+2025-02-01T13:59:39.481Z | [32MINFO[39M | [32mgit.clone resolving stage 79% complete[39m
+2025-02-01T13:59:39.481Z | [32MINFO[39M | [32mgit.clone resolving stage 82% complete[39m
+2025-02-01T13:59:39.481Z | [32MINFO[39M | [32mgit.clone resolving stage 90% complete[39m
+2025-02-01T13:59:39.481Z | [32MINFO[39M | [32mgit.clone resolving stage 91% complete[39m
+2025-02-01T13:59:39.481Z | [32MINFO[39M | [32mgit.clone resolving stage 96% complete[39m
+2025-02-01T13:59:39.482Z | [32MINFO[39M | [32mgit.clone resolving stage 98% complete[39m
+2025-02-01T13:59:39.482Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T13:59:39.482Z | [32MINFO[39M | [32mgit.clone resolving stage 100% complete[39m
+2025-02-01T14:08:11.502Z | [31MERROR[39M | [31minvalid runtime![39m
+2025-02-01T14:14:50.672Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:14:50.676Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:15:12.698Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:15:12.706Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:15:52.804Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:15:52.811Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:16:35.993Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:16:35.997Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:16:48.367Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:16:48.370Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:18:07.549Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:18:07.553Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:18:48.081Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:18:48.084Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:20:05.833Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:20:05.836Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:20:29.799Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:20:29.803Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:22:11.872Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:22:11.874Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:22:31.887Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:22:31.891Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:22:47.808Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:22:47.811Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:24:10.891Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:24:10.894Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:35:04.319Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:35:04.323Z | [32MINFO[39M | [32mDocker is installed: Docker version 27.4.1, build b9d17ea[39m
+[32m[39m
+2025-02-01T14:35:15.513Z | [32MINFO[39M | [32mhttps://github.com/zakhaev26/vulkan-node-test[39m
+2025-02-01T14:35:15.513Z | [32MINFO[39M | [32mtrue[39m
+2025-02-01T14:35:15.514Z | [32MINFO[39M | [32mValid Github URI, Attaching Git-Manager instance[39m
+2025-02-01T14:35:15.529Z | [31MERROR[39M | [31mError during git operation: error: Your local changes to the following files would be overwritten by checkout:[39m
+[31m	.vulkan/configuration.yaml[39m
+[31mPlease commit your changes or stash them before you switch branches.[39m
+[31mAborting[39m
+[31m[39m
